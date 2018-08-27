@@ -10,7 +10,7 @@
 - Class Slack: 
 - Class Time/Location:
   - Section 05: Tuesdays & Thursdays, 8:00-9:15am, 2000 Golisano Hall
-  - Section 04: Tuesdays & Thursdays, 2:00-3:15am, 1380 Orange Hall
+  - Section 04: Tuesdays & Thursdays, 2:00-3:15pm, 1380 Orange Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
