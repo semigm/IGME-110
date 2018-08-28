@@ -154,7 +154,7 @@ This week we'll talk about the underlying concepts critical to understanding dig
 - **Thursday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.) 
 
 ## <a name="week10">Week 10 (Oct 31/Nov 2): HTML & CSS Review
-On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, November 3. 
+On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, November 2. 
 
 On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and will again provide work time on your projects.
 
