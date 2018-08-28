@@ -6,9 +6,9 @@
   - Email: eabigm@rit.com
   - Office hours: Mon/Wed 1-3pm 
 - TA
-  - Section 04: Mark Lipina
+  - Section 05: Mark Lipina
     - Email: mal4739@rit.edu
-  - Section 05: Juri Kiin
+  - Section 04: Juri Kiin
     - Email: jak5125@rit.edu
 - Class Slack: 
 - Class Time/Location:
