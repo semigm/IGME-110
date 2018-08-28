@@ -197,7 +197,7 @@ This week we'll discuss the importance of good presentation skills, and look at 
   - [LifeHack: 18 Tips for Killer Presentations](http://www.lifehack.org/articles/communication/18-tips-for-killer-presentations.html) 
   - [Anatomy of an Ignite Talk](http://www.eevblog.com/2013/08/08/anatomy-of-an-ignite-talk/)
 
-## <a name="week14">Week 14</a> (Nov 28/30): Digital Video Concepts
+## <a name="week14">Week 14</a> (Nov 27/29): Digital Video Concepts
 It's unrealistic for me to think you'll do much reading over Thanksgiving, so there are no readings for Tuesday. :) Instead of giving a readings quiz at the beginning of class, I'll give a lecture quiz at the end of class. 
 
 - **Thursday Tutorials**
