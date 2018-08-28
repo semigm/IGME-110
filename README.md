@@ -1,12 +1,15 @@
 # IGME-110 Introduction to Interactive Media, Fall 2018: Syllabus
 
 ## Instructor and Class Details
-- Professor Eric Baker
+- Professor: Eric Baker
   - Office: 2569 Golisano Hall
   - Email: eabigm@rit.com
   - Office hours: Mon/Wed 1-3pm 
-- TA TBA
-  - Email: 
+- TA
+  - Section 04: Mark Lipina
+    - Email: mal4739@rit.edu
+  - Section 05: Juri Kiin
+    - Email: jak5125@rit.edu
 - Class Slack: 
 - Class Time/Location:
   - Section 05: Tuesdays & Thursdays, 8:00-9:15am, 2000 Golisano Hall
