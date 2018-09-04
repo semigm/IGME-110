@@ -1,6 +1,6 @@
 # Information Evaluation Exercise
 
-Begin by reading these three brief articles on mandatory vs voluntary voting: [voting-articles.pdf](voting-articles.pdf)
+Begin by reading these three brief articles on mandatory vs voluntary voting: [voting-articles.pdf](https://lawleyfall2018.github.io/110-fall2018/exercises/infoEvalExercise/voting-articles.pdf)
 
 Next, look at this tweet: https://twitter.com/MoveOn/status/666772893846675456?lang=en
 
