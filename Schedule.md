@@ -48,7 +48,7 @@ Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses
 - **Thursday Readings**
   - [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu) 
 
-- **[Thursday Exercise/Homework](exercises/biblioExercise/bibExercise.md)**: If there's time, we'll start on this bibliography creation assignment in class; it's due by midnight on Sunday, 9/10.
+- **[Thursday Exercise/Homework](exercises/biblioExercise/bibExercise.md)**: In this exercise, you will use the NoodleTools resource provided by the RIT Library to create an annotated bibliography, using a topic from the list provided. You'll start this exercise in class, but it's not due until 8am on Monday, 9/10.
 
 
 ## <a name="week3">Week 3</a> (Sep 11/13): Legal Issues for Media Creators
