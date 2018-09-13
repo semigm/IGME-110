@@ -84,7 +84,7 @@ This week we’ll talk about how the web differs from other types of media, and 
 - **Thursday Readings**
   - [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
   
-- **Thrusday Class** During class we will do a review of your second draft for your papers. This will be optional for anyone who wants it. I will also review drafts on a first come first server basis.
+- **Thursday Class** During class we will do a review of your second draft for your papers. This will be optional for anyone who wants it. I will also review drafts on a first come first server basis.
 
 - **[Thursday Exercise](exercises/positioningExercise/cssPositioningExercise.md)** You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
 
