@@ -79,16 +79,12 @@ This week we’ll talk about how the web differs from other types of media, and 
   - [Getting Started with the Web: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
   - [Getting Started with the Web: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
-- **[Tuesday Exercise](https://github.com/BakerIGM/110-fall2018/blob/master/exercises/markupExercise/basicMarkupExercise.md)**
-
-In today's exercise, you'll create a basic HTML page, with links and images.
+- **[Tuesday Exercise](https://github.com/BakerIGM/110-fall2018/blob/master/exercises/markupExercise/basicMarkupExercise.md)** In today's exercise, you'll create a basic HTML page, with links and images.
   
 - **Thursday Readings**
   - [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
-- **[Thursday Exercise](https://github.com/BakerIGM/110-fall2018/blob/master/exercises/positioningExercise/cssPositioningExercise.md)**
-
-You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
+- **[Thursday Exercise](https://github.com/BakerIGM/110-fall2018/blob/master/exercises/positioningExercise/cssPositioningExercise.md)** You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
 
 - **[Homework Exercise to Prepare for Week 5](exercises/unixHomework/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* next week, so that if there are problems you have time to correct them!
 
