@@ -98,7 +98,7 @@ Once you've created web pages, how do you publish them?  We'll talk about how th
   - [UNIX Tutorial from UC Berkeley, Sections 1-4](http://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html)
   - [Introduction to PuTTY, Chapter 1](https://www.ssh.com/ssh/putty/putty-manuals/0.68/Chapter1.html) 
 
-- **[Tuesday Exercise](exercises/unixExercise/110-Fall-2017-Unix-Exercise.pdf)** In this exercise, you'll develop familiarity with the UNIX command line environment by logging into RIT's banjo.rit.edu server and executing a number of UNIX commands. 
+- **[Tuesday Exercise](exercises/unixExercise/unixExercise.md)** In this exercise, you'll ensure you have proper access to RIT's banjo.rit.edu server (which is used for hosting student webpages and projects).
 
 - **Thursday Readings**
   - [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))

@@ -1,57 +1,41 @@
-# Week 5 Preparation: Connecting to the RIT Web Server
-Please complete this assignment and inform me of any problems BEFORE Monday (but sooner is much better). There are TWO PARTS to this exercise—make sure you do part II, “Testing the Connection,” as well. 
+# Unix Prep Homework
 
-## Part I (for Windows only): Logging Into the RIT Web Server 
+Next week, you’ll be publishing web pages to RIT’s web server. This exercise will help you to determine if your RIT web account was properly configured. Make sure to do this exercise before next week, so that if there are problems you have time to correct them!
 
-Launch the application PuTTY, which is installed on all of the lab machines. (If you would like to have this software on your own machine, it is free software that can be downloaded from https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html; you only need the putty.exe file.) 
 
-![PuTTY Login Screen](putty-login.png)
+## Part 1: Logging Into the RIT Web Server
 
-Type banjo.rit.edu into the host name box, make sure that the SSH button is selected, and click Open at the bottom of the dialog box. You'll be prompted for a login--use your RIT username and password. If you are asked a question about the security key on the server, say yes. Type in your password when prompted.
+* **Windows**:  Launch the MobaXterm program (installed on all IGM computers, and downloadable from https://mobaxterm.mobatek.net/), and select the SSH icon in the top left corner. Enter banjo.rit.edu as the remote host, and your RIT username (eg abc1234). If you are asked a question about the security key on the server, say yes (this will only happen the first time you log in). Type in your password when prompted.
 
-*(Note: When you type in your password, you will not see any characters on the screen. It will be accepting your input, but you will not see any characters on the screen as you type.*)
+* **Mac**:  Launch the Terminal application (available on all Mac computers), and at the prompt type in the following (replacing yourUserName with your RIT User ID).
+`ssh yourUsername@banjo.rit.edu`
 
-If you see the following text, it means you've successfully connected:
 
-```
-Last login: Thu May 18 11:57:55 2017 from lawleymbp.wireless.rit.edu
+Note: When you type in your password, you will not see any characters on the screen. It will be accepting your input, but you will not see any characters on the screen as you type.)
 
-RIT information technology resources are for the use of the RIT community only. By using RIT information technology resources you acknowledge that you have read and comply with RIT's Code of Conduct for Computer and Network Use and RIT's Information Security Policy and Standards. Use of RIT information technology resources may be monitored and unauthorized use is strictly prohibited.
-```
-
-If you get an error message, or have difficulty connecting,  [contact the ITS help desk](https://www.rit.edu/its/help-support/hours-contact) for assistance--you’ll need to be able to log in properly in order to do the week 5 in-class exercises. 
-
-Once you've successfully logged in, continue to Part II.
-
-## Part I (for Macs only): Logging Into the RIT Web Server
-
-Launch the Terminal application on your Mac, and type in the following (replacing *yourUserName* with your RIT User ID). 
-
-`ssh yourUsername@banjo.rit.edu`  
-
-After typing in the command, hit enter. If you are asked a question about the security key on the server, say yes. Type in your password when prompted. 
-
-*(Note: When you type in your password, you will not see any characters on the screen. It will be accepting your input, but you will not see any characters on the screen as you type.*)
-
-If you see the following text, it means you've successfully connected:
+If you see the something resembling the following text, it means you’ve successfully connected:
 
 ```
-Last login: Thu May 18 11:57:55 2017 from lawleymbp.wireless.rit.edu
+login: Thu May 18 11:57:55 2017 from [your host name]
 
-RIT information technology resources are for the use of the RIT community only. By using RIT information technology resources you acknowledge that you have read and comply with RIT's Code of Conduct for Computer and Network Use and RIT's Information Security Policy and Standards. Use of RIT information technology resources may be monitored and unauthorized use is strictly prohibited.
+RIT information technology resources are for the use of the RIT community only. 
+By using RIT information technology resources you acknowledge that you have read 
+and comply with RIT's Code of Conduct for Computer and Network Use and RIT's 
+Information Security Policy and Standards. Use of RIT information technology 
+resources may be monitored and unauthorized use is strictly prohibited.
 ```
 
-If you get an error message, or have difficulty connecting, [contact the ITS help desk](https://www.rit.edu/its/help-support/hours-contact) for assistance--you’ll need to be able to log in properly in order to do the week 5 in-class exercises.
+If you get an error message, or have difficulty connecting, ask for help in an IGM lab, or contact the [ITS help desk](https://www.rit.edu/its/help-support/hours-contact) for assistance--you’ll need to be able to log in to your account in order to do the week 5 in-class exercises.
 
-Once you've successfully logged in, continue to Part II.
+Once you've successfully logged in, continue to Part 2.
 
-## Part II:  Testing the Connection 
 
-After connecting to the server, type in the command  `ls`  (LS in lowercase) to show a list of your home directory contents. At a minimum, you should see `php_data` and `www` in the display.  
+## Part 2: Checking Your Configuration
 
-![banjo directory listing](banjo-prompt.png)
+After connecting to the server, type in the command ls (LS in lowercase) to show a list of your home directory contents. At a minimum, you should see php_data and www in the display.
 
-If you do *not* see php_data  and www listed when you typed in the `ls` command, please contact the ITS Help Desk immediately (and let me know, as well)--it means RIT did not configure your account properly, and we need to fix that before class next week.
+![sample view of ls results](banjo-prompt.png)
 
-That’s it! You’re done. To close your session, you can type either `logout` or `exit`, and quit the PuTTY or Terminal program. 
+If you do not see php_data and www listed when you typed in the ls command, please let me know ASAP--it means RIT did not configure your account properly, and we need to get that fixed that before class next week.
 
+That’s it! You’re done. To close your session, you can type either `logout` or `exit`, and then quit the MobaXterm or Terminal program.
