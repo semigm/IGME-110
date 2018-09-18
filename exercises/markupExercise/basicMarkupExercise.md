@@ -119,21 +119,5 @@ Notice that the URL I gave you only has the directory name (igme110) and not a f
 
 Once your page has displayed properly, view the source in the web browser (if you're using Chrome, type Ctrl-U to display the page source). You'll probably see a big block of completely unfamiliar code near the top of your page, where your first image is embedded. In the next section, I'll explain where that came from, and how we can make it go away. 
 
-## Fixing Banjo
-
-'banjo.rit.edu' uses specific server-techniques to help pages across RIT's sites load faster, but these techniques have the side effect of making pages on the server harder for us to debug and to validate.
-
-To fix this, you're going to need to copy a file from my www directory to yours via the command line. As you did on Tuesday, use PuTTY (or Terminal on a Mac) to connect to 'banjo.rit.edu', and then type the following commands, *exactly* as they appear here:
-
-```
-cd www
-cp ~ellics/www/.htaccess .htaccess
-chmod 644 .htaccess
-```
-
-The first line changes directories into your www directory. The second line copies a file called .htaccess from **my** www directory (ellics/www) to your current location, which is **your** www directory. And the third line changes the permissions on the .htaccess file so that the web server can read it. 
-
-Go back to your browser, reload your index.html page, and view the source again. If it all worked properly, the block of code inserted by the server that you saw before should now be gone. 
-
 ## Due Date
-You must have this exercise complete by noon on Saturday, September 30th. On Saturday, my TA will check to see if you completed the work by loading  `http://people.rit.edu/youruserid/igme110` and making sure that the files are present and include the requested components. 
+You must have this exercise completed by next class on Thursday, September 20th. My TA will check to see if you completed the work by loading  `http://people.rit.edu/youruserid/igme110` and making sure that the files are present and include the requested components. 
