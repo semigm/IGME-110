@@ -86,7 +86,10 @@ You can use whichever SFTP (secure File Transfer Program) you'd like to uplaod f
 
 Launch FileZilla.  Fill in the fields at the top with the following information, and click “Quickconnect”:
 
-![FileZilla Connect Screen](filezilla-connect.png)
+- Host: sftp://banjo.rit.edu
+- Username: your RIT username abd1234
+- Password: Your RIT user password
+- Post: 22
 
 FileZilla may ask you if you want it to remember passwords—if you’re doing this in the lab, tell it no. If this is the first time you've used FileZilla on a lab computer, it may also give you a warning about an “unknown host key”—if that happens, check the box saying “Always trust this host” and then click OK. If you entered your user ID and password correctly, you should now see something like this:
 
