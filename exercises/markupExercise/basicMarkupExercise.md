@@ -2,9 +2,7 @@
 
 ## Overview & Goals
 
-In today's exercise, you'll use Visual Studio Code to create some web pages. Much of the HTML I'm asking you to create was already covered in the HTML Essential Training tutorial, so this should primarily be review. 
-
-You will then use an FTP program to upload the files you've created to the RIT web server, and will also be adding a configuration file to your RIT web space to override some of the server's default behavior.
+In today's exercise, you'll use your IDE of choice (Adobe Brackets, Visual Studio Code, etc.) to create some web pages. Much of the HTML I'm asking you to create was already covered in the HTML Essential Training tutorial, so this should primarily be review.
 
 ## Setting Up Your Folders and Files
 
