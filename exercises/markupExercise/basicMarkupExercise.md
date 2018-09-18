@@ -89,6 +89,8 @@ Launch FileZilla.  Fill in the fields at the top with the following information,
 - Password: Your RIT user password
 - Post: 22
 
+![FileZilla Connect Screen](filezilla-connect.png)
+
 FileZilla may ask you if you want it to remember passwords—if you’re doing this in the lab, tell it no. If this is the first time you've used FileZilla on a lab computer, it may also give you a warning about an “unknown host key”—if that happens, check the box saying “Always trust this host” and then click OK. If you entered your user ID and password correctly, you should now see something like this:
 
 ![FileZilla File Listing Screen](filezilla-files.png)
