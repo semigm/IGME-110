@@ -95,12 +95,12 @@ This week we’ll talk about how the web differs from other types of media, and 
 Once you've created web pages, how do you publish them?  We'll talk about how the Internet and web servers work. Since most web servers use the UNIX operating system, you'll learn how to use a terminal emulation program to connect to a server and enter commands, and  how to use FTP (file transfer program) to transfer files from your computer to a web server. 
 
 - **Tuesday Readings**
-  - [UNIX Tutorial from UC Berkeley, Sections 1-4](http://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html)
-  - [Introduction to PuTTY, Chapter 1](https://www.ssh.com/ssh/putty/putty-manuals/0.68/Chapter1.html) 
+  - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc) (a bit out of date, but the concepts are sound)
 
 - **[Tuesday Exercise](exercises/unixExercise/unixExercise.md)** In this exercise, you’ll develop familiarity with the UNIX command line environment by logging into RIT’s banjo.rit.edu server and executing a number of UNIX commands.
 
 - **Thursday Readings**
+  - [Getting Started with the Web: Publishing Your Website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
   - [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
   - [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
 
