@@ -116,7 +116,7 @@ Design doesn't just mean graphics and visual aesthetics. On Tuesday we'll talk a
 
 
 ## <a name="week7">Week 7</a> (Oct 11): Digital Typography
-We will not have class on Tuesday of this week, because it is a reading day. On Thursday, you'll learn the importance of typographic choices, including font families and formatting. You'll also work with CSS to implement typographic formatting on web pages. 
+We will not have class on Tuesday of this week. On Thursday at 8am we will be leaving from GOL to head over to the new MAGIC Studio building for a guided tour. If you do not wish to or are unable to go on the field trip that it fine. Regardless of what you do there will be a quiz Thursday on the readings posted on Slack and an exercise for this week that will be due by the start class on 10/16.
 
 - **Readings**
   - [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
