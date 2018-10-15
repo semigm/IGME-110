@@ -158,14 +158,12 @@ This week we'll talk about the underlying concepts critical to understanding dig
 
 - **Thursday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.) 
 
-## <a name="week10">Week 10 (Oct 31/Nov 2): HTML & CSS Review
-On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, November 2. 
+## <a name="week10">Week 10 (Oct 31/Nov 2): Digital Image Applications
+This week we'll learn about how to make an image.
 
-On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and will again provide work time on your projects.
+  **[Tuesday Exercise](exercises/compositingExercise/compositingExercise.md)**: This exercise will give you experience with PhotoShop.
 
-- **Readings**
-  - W3 Schools: [CSS Syntax](https://www.w3schools.com/cssref/css_selectors.asp), [CSS Borders](https://www.w3schools.com/css/css_border.asp), [CSS Links](https://www.w3schools.com/css/css_link.asp), [CSS Lists](https://www.w3schools.com/css/css_list.asp), and [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
-  - MDN: [Simple CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors), [Combinators and Multiple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors), [Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
+
 ## <a name="week11">Week 11</a> (Nov 6/8): Animation Concepts
 
 - **Tuesday Readings**
