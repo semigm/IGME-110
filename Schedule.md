@@ -95,16 +95,14 @@ This week we’ll talk about how the web differs from other types of media, and 
 Once you've created web pages, how do you publish them?  We'll talk about how the Internet and web servers work. Since most web servers use the UNIX operating system, you'll learn how to use a terminal emulation program to connect to a server and enter commands, and  how to use FTP (file transfer program) to transfer files from your computer to a web server. 
 
 - **Tuesday Readings**
-  - [UNIX Tutorial from UC Berkeley, Sections 1-4](http://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html)
-  - [Introduction to PuTTY, Chapter 1](https://www.ssh.com/ssh/putty/putty-manuals/0.68/Chapter1.html) 
-
-- **[Tuesday Exercise](exercises/unixExercise/unixExercise.md)** In this exercise, you’ll develop familiarity with the UNIX command line environment by logging into RIT’s banjo.rit.edu server and executing a number of UNIX commands.
+  - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc) (a bit out of date, but the concepts are sound)
 
 - **Thursday Readings**
+  - [Getting Started with the Web: Publishing Your Website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
   - [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
   - [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
 
-- **[Thursday Exercise](exercises/markupExercise/basicMarkupExercise.md)**: In this exercise, you'll use an FTP client to upload your web files to banjo.rit.edu, so that they appear on the people.rit.edu web server.
+- **[Thursday Exercise](exercises/unixExercise/unixExercise.md)** In this exercise, you’ll develop familiarity with the UNIX command line environment by logging into RIT’s banjo.rit.edu server and executing a number of UNIX commands.
 
 
 ## <a name="week6">Week 6</a> (Oct 2/4): Understanding Design
@@ -118,7 +116,7 @@ Design doesn't just mean graphics and visual aesthetics. On Tuesday we'll talk a
 
 
 ## <a name="week7">Week 7</a> (Oct 11): Digital Typography
-We will not have class on Tuesday of this week, because it is a reading day. On Thursday, you'll learn the importance of typographic choices, including font families and formatting. You'll also work with CSS to implement typographic formatting on web pages. 
+We will not have class on Tuesday of this week. On Thursday at 8am we will be leaving from GOL to head over to the new MAGIC Studio building for a guided tour. If you do not wish to or are unable to go on the field trip that it fine. Regardless of what you do there will be a quiz Thursday on the readings posted on Slack and an exercise for this week that will be due by the start class on 10/16.
 
 - **Readings**
   - [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)

@@ -124,4 +124,4 @@ footer {
 }
 ``` 
 ## Uploading and Due Date
-At the end of class, upload the week8 folder with your edited layout.css file to your igme110 folder on banjo.rit.edu. ('http://people.rit.edu/youruserid/igme110/week8/layout.html')(Even if you didn't finish--you should have *something* up there just in case.) You have until the start of next class (9/25) complete the exercise, but you have to have something posted by the end of today's class.
+At the end of class, upload the week8 folder with your edited layout.css file to your igme110 folder on banjo.rit.edu. 'people.rit.edu/youruserid/igme110/week8/layout.html' (Even if you didn't finish--you should have *something* up there just in case.) You have until the start of next class (9/25) complete the exercise, but you have to have something posted by the end of today's class.
