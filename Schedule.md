@@ -161,7 +161,7 @@ This week we'll talk about the underlying concepts critical to understanding dig
 ## <a name="week10">Week 10 (Oct 31/Nov 2): Digital Image Applications
 This week we'll learn about how to make an image.
 
-  **[Tuesday Exercise](exercises/compositingExercise/compositingExercise.md)**: This exercise will give you experience with PhotoShop.
+- **[Tuesday Exercise](exercises/compositingExercise/compositingExercise.md)**: This exercise will give you experience with PhotoShop.
 
 
 ## <a name="week11">Week 11</a> (Nov 6/8): Animation Concepts
