@@ -144,8 +144,6 @@ This week you'll learn how to implement graphic design concepts, particularly gr
     - [CSS Layout: Inline Block](https://www.w3schools.com/css/css_inline-block.asp)
     - [CSS Layout: Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp)
 
-- **[Tuesday Exercise](exercises/positioningExercise/cssPositioningExercise.md)**
-
 - **[Thursday Exercise](exercises/peerCritiqueExercise/webProjectCritique.md)** - On Thursday you'll bring a paper or HTML mockup of your web project to class, receive critiques from your group members, and then make changes to your mockup based on the critiques. 
 
 ## <a name="week9">Week 9</a> (Oct 23/25): Digital Image Concepts
