@@ -153,10 +153,11 @@ This week we'll talk about the underlying concepts critical to understanding dig
   - [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
   - [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
 
-- **Thursday Homework**
-  - Prepare either a Photoshop mockup or a first version of your web project to bring to class. 
+- **Thurday Homework**: Prepare either a Photoshop mockup or a first version of your web project to bring to class. 
 
-- **Thursday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.) 
+- **Thursday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.)
+
+- **[Image Optimization Homework](exercises/imageOptimizeExercise/color-optimizationExercise.md) due(10/29)**: This exercise will give you experience with different image formats and optimizing them for the web.
 
 ## <a name="week10">Week 10 (Oct 31/Nov 2): Digital Image Applications
 This week we'll learn about how to make an image.
