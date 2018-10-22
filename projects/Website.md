@@ -15,6 +15,8 @@ The site must be uploaded to banjo.rit.edu by midnight on Sunday, October 28th.
   
  You may use external sources for templates or specific aspects of your code; however, if you do so, you ***MUST*** provide a citation to that source, both in your source code (through HTML or CSS comments) and on your sources page.
 
+ You may use find some template code [here](web-project-template)
+
 ## Privacy
 If you have concerns about privacy, I can provide you with a method to restrict access to the portfolio directory so that only RIT-affiliated users can view it. See me during my office hours for information on how to implement this option. 
 

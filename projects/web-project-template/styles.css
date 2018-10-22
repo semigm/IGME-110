@@ -1,0 +1,28 @@
+/* imports a Google font */
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+/* creates an 800px-wide space centered on the page, to constrain line width. it also  specifies a default typeface and line height for the entire body of the document */
+body {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	font-family: Verdana;
+	line-height: 125%;
+	border: 1px dashed;
+    }
+	
+/* overrides the center alignment for the body so that text is left aligned */
+.content {text-align: left; width: 800px;}
+
+
+/* makes all links bold */
+a {font-weight: bold;}
+
+/* increases spacing between list items */
+li {
+	margin-bottom: 10px;
+}
+
+/* uses the Google font imported above to change level 1 headings */
+h1 { font-family: Lobster;} 
