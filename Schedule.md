@@ -10,7 +10,7 @@
 - [Week 7 (Oct 11): Digital Typography](#week7)
 - [Week 8 (Oct 16/18): Web Page & Site Design](#week8)
 - [Week 9 (Oct 23/25): Digital Image Concepts](#week9)
-- [Week 10 (Oct 30/Nov 1): HTML & CSS Review](#week10)
+- [Week 10 (Oct 30/Nov 1): Digital Image Applications](#week10)
 - [Week 11 (Nov 6/8): Animation Concepts](#week11)
 - [Week 12 (Nov 13/15): Digital Audio Concepts](#week12)
 - [Week 13 (Nov 20): Presentation Skills](#week13)
