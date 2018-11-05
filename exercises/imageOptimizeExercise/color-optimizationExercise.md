@@ -89,4 +89,4 @@ Put the optimized versions of the images into a folder called week9, and create 
 
 Test it by going to this URL `http://people.rit.edu/yourid/igme110/week9` (substituting your RIT ID for "your id") 
 
-The page should avaialbe for me to view by 8am on Saturday, October 28th. (If you choose to work on this on your own rather than attending Thursday's class, it must be submitted *before* class begins on Thursday.)  
+The page should avaialbe for me to view by class on Tuesday, October 29th.
