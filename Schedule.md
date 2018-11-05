@@ -166,15 +166,11 @@ This week we'll learn about how to make an image.
 
 ## <a name="week11">Week 11</a> (Nov 6/8): Animation Concepts
 
-- **Tuesday Readings**
-  - [12 Principles of Animation](http://minyos.its.rmit.edu.au/aim/a_notes/anim_principles.html)
-  - [The Illusion of Life (2m46s video)](https://vimeo.com/93206523)
-
 - **Thursday Readings** (These are not required, but will be very helpful for Thursday's exercise.)
   - [Adobe.com: Video and Animation Overview](https://helpx.adobe.com/photoshop/using/video-animation-overview.html)
   - [Adobe.com: Creating Frame Animations](http://helpx.adobe.com/photoshop/using/creating-frame-animations.html)
 
-- **[Thursday Exercise](exercises/animationExercise/animationExercise.md)** - This exercise will give you experience with creating animations in Photoshop. If you choose to work on this on your own rather than coming to class on Thursday, the URL for your finished animation must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 6pm on Saturday, November 11th.
+- **[Thursday Exercise](exercises/animationExercise/animationExercise.md)** - This exercise will give you experience with creating animations in Photoshop. If you choose to work on this on your own rather than coming to class on Thursday, the URL for your finished animation must be submitted to the myCourses dropbox by the beginning of Monday's class.
 
 ## <a name="week12">Week 12</a> (Nov 13/15): Digital Audio Concepts
 
