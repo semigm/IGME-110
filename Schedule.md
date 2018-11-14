@@ -184,7 +184,7 @@ This week we'll learn about how to make an image.
   - [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
   - [Audacity Software Download](http://www.audacityteam.org/download/) - Only necessary if want to do the tutorial on your own computer. 
 
-- **Thursday Exercise: Audio** - I have to make this exercise. Make sure you come to class on Thursday!
+- **[Thursday Exercise: Audio](exercises/audioExercise/audioExercise.md)** - This week you will add audio to a video.
 
 ## <a name="week13">Week 13</a> (Nov 20): Presentation Skills
 This week we'll discuss the importance of good presentation skills, and look at examples of effective short-form presentations. If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own, and complete the "Week 13 Lecture Materials Homework" in the Quizzes section of myCourses. Students attending class on Tuesday do not need to complete the homework, but will have a quiz on the readings. 
