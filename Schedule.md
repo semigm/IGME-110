@@ -200,7 +200,7 @@ It's unrealistic for me to think you'll do much reading over Thanksgiving, so th
 - **Thursday Tutorials**
   - [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
 
-- **[Thursday Exercise](exercise/videoExercise/videoExercise.md)** - In progress
+- **[Thursday Exercise](exercises/videoExercise/videoExercise.md)** - In progress
 
 ## <a name="week15">Week 15</a> (Dec 4/6): Responsible Social Media Use
 
