@@ -195,12 +195,12 @@ This week we'll discuss the importance of good presentation skills, and look at 
   - [Anatomy of an Ignite Talk](http://www.eevblog.com/2013/08/08/anatomy-of-an-ignite-talk/)
 
 ## <a name="week14">Week 14</a> (Nov 27/29): Digital Video Concepts
-It's unrealistic for me to think you'll do much reading over Thanksgiving, so there are no readings for Tuesday. :) Instead of giving a readings quiz at the beginning of class, I'll give a lecture quiz at the end of class. 
+There will be no readings due for Tuesday (and therefore no quiz). This weeks quiz will take place on Thursday, and will be based on the lecture and the videos we watch in Tuesday's class.
 
 - **Thursday Tutorials**
   - [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
 
-- **[Thursday Exercise](exercises/videoExercise/videoExercise.md)** - In progress
+- **[Thursday Exercise: Video Editing](exercises/videoExercise/videoExercise.md)** - In this exercise, you will be creating a trailer for some form of media.
 
 ## <a name="week15">Week 15</a> (Dec 4/6): Responsible Social Media Use
 
