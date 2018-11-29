@@ -195,7 +195,7 @@ This week we'll discuss the importance of good presentation skills, and look at 
   - [Anatomy of an Ignite Talk](http://www.eevblog.com/2013/08/08/anatomy-of-an-ignite-talk/)
 
 ## <a name="week14">Week 14</a> (Nov 27/29): Digital Video Concepts
-There will be no readings due for Tuesday (and therefore no quiz). This weeks quiz will take place on Thursday, and will be based on the lecture and the videos we watch in Tuesday's class.
+There will be no readings due for Tuesday (and therefore no quiz).
 
 - **Thursday Tutorials**
   - [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
