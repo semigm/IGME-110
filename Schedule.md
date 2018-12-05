@@ -204,7 +204,7 @@ There will be no readings due for Tuesday (and therefore no quiz).
 
 ## <a name="week15">Week 15</a> (Dec 4/6): Responsible Social Media Use
 
-- **[Tuesday Exercise](exercises/socialMediaExercise/onlinePresence.md)**
+- **[Tuesday Exercise](exercises/socialmediaExercise/onlinePresence.md)**
 
 - **Thursday Readings**
   - [danah boyd Keynote Speech, DML 2017: "Learning All The Wrong Things"](https://youtu.be/WWrD9wSsn3c?t=10m31s) (video is 1h22m; the actual talk is 40 minutes long, the rest is optional q&a)
