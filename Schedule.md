@@ -1,7 +1,7 @@
-# IGME-110 Introduction to Interactive Media, Fall 2018: Schedule of Topics
+# IGME-110 Introduction to Interactive Media, Spring 2018: Schedule of Topics
 
 ## Contents
-- [Week 1 (Aug 28/30): Course Overview & Communication](#week1)
+- [Week 1 (Jan 14/16/18): Course Overview & Communication](#week1)
 - [Week 2 (Sep 4/6): Research & Critical Assessment](#week2)
 - [Week 3 (Sep 11/13): Legal Issues for Media Creators](#week3)
 - [Week 4 (Sep 18/20): Understanding the Web](#week4)
@@ -18,19 +18,18 @@
 - [Week 15 (Dec 4/6): Responsible Social Media Use](#week15)
 - [Finals Week (Date TBD): Final Presentations](projects/Presentation.md)
 
-## <a name="week1">Week 1</a> (Aug 28/30): Course Overview & Communication Tools
-On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including email, Slack, and Google Docs.  
+## <a name="week1">Week 1</a> (Jan 14/16/18): Course Overview & Communication Tools
+On Monady, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Wednesday, we'll discuss communication tools you'll be using in the class, including Discord, and Google Docs.
 
-- **Tuesday Readings**
+- **Monday Readings**
   - [Course Syllabus](README.md)
 
-- **[Tuesday Homework](exercises/commHomework/commHomework.md)**: Set up your Slack account, add a photo and a post to the #introductions channel, and send an email with your Slack username to the professor and the TA.  
-
-- **<a name="w1-th-readings">Thursday Readings</a>**
+- **Wednesday Readings**
    - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
-   - Slack Guides: [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) and [Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users) *(Note: In our class Slack, the #general channel has been renamed to #announcements)*
+   
+ - **[Wednesday Homework](exercises/commHomework/commHomework.md)**: Set up your Discord nickname and a post to the #introductions channel. 
 
-- **[Thursday In-Class Exercise](exercises/commExercise/commExercise.md)**: Hands-on practice with both Google Docs and Slack. 
+- **[Friday In-Class Exercise](exercises/commExercise/commExercise.md)**: Hands-on practice with both Google Docs and Discord. 
 
 ## <a name="week2">Week 2</a> (Sep 4/6): Research and Critical Assessment
 
