@@ -1,19 +1,13 @@
-# IGME-110 Introduction to Interactive Media, Fall 2018: Syllabus
+# IGME-110 Introduction to Interactive Media, Spring 2185: Syllabus
 
 ## Instructor and Class Details
 - Professor: Eric Baker
   - Office: 2569 Golisano Hall
   - Email: eabigm@rit.com
-  - Office hours: Mon/Wed 1-3pm 
-- TA
-  - Section 05: Mark Lipina
-    - Email: mal4739@rit.edu
-  - Section 04: Juri Kiin
-    - Email: jak5125@rit.edu
-- Class Slack: 
+  - Office hours: TBA
+- Class Discord: 
 - Class Time/Location:
-  - Section 05: Tuesdays & Thursdays, 8:00-9:15am, 2000 Golisano Hall
-  - Section 04: Tuesdays & Thursdays, 2:00-3:15pm, 1380 Orange Hall
+  - Mondays, Wednesdays & Fridays, 12:00-12:50pm, 2570 Golisano Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
@@ -44,8 +38,8 @@ At least once a week there will be an in-class exercise. I will also occasionall
 ### [Research Paper (20% of final grade)](projects/Paper.md)
 For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument. 
 
-### [Web Site (20% of final grade)](projects/Website.md)
-To demonstrate your understand of basic web development, you will create a website that provides access to information related to your paper topic.  
+### Video Trailer (20% of final grade)
+To demonstrate your understand of basic media creation, you will create a trailer for a film/show/game.
 
 ### [Presentation (20% of final grade)](projects/Presentation.md)
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration. 
