@@ -14,20 +14,20 @@
 This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives. The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments. Students will be required to write formal analysis and critique papers, and use digital modes of writing including collaborative editing and effective presentation design. 
 
 ## Course Materials and Communication
-There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
+There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this GitHub site. 
 
-We will be using Slack, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We will also be using Google Docs for collaborative note-taking. We'll be discussing both of these tools in week 1. 
+We will be using Discord, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We will also be using Google Docs for collaborative note-taking. We'll be discussing both of these tools in week 1. 
 
-MyCourses will *only* be used for grading, quizzes, and submission of assignments, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
+MyCourses will *only* be used for grading, quizzes, and submission of assignments, not for distribution of materials or communication. There will be links in myCourses pointing you to this GitHub repository and to our class Discord. 
 
 ## Course Organization
 Listening to a lecture is seldom the best way to learn a topic. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials *before* the class where we discuss that topic. In most of our class meetings, I will give a lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to get hands-on experience with the concepts being discussed.
 
 ## [Course Topics & Schedule](Schedule.md)
-The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
+The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the GitHub folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
 ## Attendance
-Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check Github and/or Slack for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict please let me know, so I can make sure you have the materials for the exercise. While I do not give a grade for attendance, missing a class where there's a quiz will result in a zero on the quiz, and missing a class where there's an exercise, if you haven't completed the work in advance, results in a zero on the exercise. 
+Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check GitHub and/or Discord for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict please let me know, so I can make sure you have the materials for the exercise. While I do not give a grade for attendance, missing a class where there's a quiz will result in a zero on the quiz, and missing a class where there's an exercise, if you haven't completed the work in advance, results in a zero on the exercise. 
 
 ## Assignments & Grading
 These are brief descriptions of each of the assignments. Follow the links to see more detailed information. 
@@ -39,7 +39,7 @@ At least once a week there will be an in-class exercise. I will also occasionall
 For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument. 
 
 ### Video Trailer (20% of final grade)
-To demonstrate your understand of basic media creation, you will create a trailer for a film/show/game.
+To demonstrate your understanding of basic media creation, you will create a trailer for a film/show/game.
 
 ### [Presentation (20% of final grade)](projects/Presentation.md)
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration. 
@@ -58,9 +58,9 @@ You will be assigned to a group for collaborative note-taking during the semeste
 - You have one semester after the class has ended to challenge your grade. 
 
 ### Communication
-Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours. You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my RIT email, eabigm@rit.edu. 
+Any updates to assignments or the syllabus will be posted in GitHub and automatically announced in Discord. Major announcements (such as class cancellations) will be posted in the general channel in Discord. This means you should regularly check the class Discord, and consider setting up notifications for the general channel. I check both email and Discord frequently, and will try to always respond within 24 hours. You will get a faster response using Discord, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my RIT email, eabigm@rit.edu. 
 ### Late Policy
-If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or may incur a grade penalty. 
+If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. You have one week from the due date of an assignment to receive half credit, after a week you will receive a zero. 
 ### Missed Classes
 If you miss a class, it is your responsibility to check with classmates for notes to supplement the materials I've already provided online. I will not recap classes for you. 
 ### Office Hours
