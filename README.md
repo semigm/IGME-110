@@ -5,7 +5,6 @@
   - Office: 2569 Golisano Hall
   - Email: eabigm@rit.com
   - Office hours: TBA
-- Class Discord: 
 - Class Time/Location:
   - Mondays, Wednesdays & Fridays, 12:00-12:50pm, 2570 Golisano Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
