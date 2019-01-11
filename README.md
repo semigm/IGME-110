@@ -95,5 +95,5 @@ If you have a concern related to gender-based discrimination and/or harassment a
 585-475-6468 (v), 585-286-4070 (vp)
 
 ## Finally...
-Any or all of the previous information is subject to change or modification during the semester. Any changes to the syllabus will be published here on GitHub, and will be announced in Slack. 
+Any or all of the previous information is subject to change or modification during the semester. Any changes to the syllabus will be published here on GitHub, and will be announced in Discord. 
 
