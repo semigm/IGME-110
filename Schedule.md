@@ -2,6 +2,7 @@
 
 ## Contents
 - [Week 1 (Jan 14/16/18): Course Overview & Communication](#week1)
+- [Week 2 (Jan 23/25): Responsible Social Media Use](#week2)
 - [Week 2 (Sep 4/6): Research & Critical Assessment](#week2)
 - [Week 3 (Sep 11/13): Legal Issues for Media Creators](#week3)
 - [Week 4 (Sep 18/20): Understanding the Web](#week4)
@@ -15,7 +16,6 @@
 - [Week 12 (Nov 13/15): Digital Audio Concepts](#week12)
 - [Week 13 (Nov 20): Presentation Skills](#week13)
 - [Week 14 (Nov 27/29): Digital Video Concepts](#week14)
-- [Week 15 (Dec 4/6): Responsible Social Media Use](#week15)
 - [Finals Week (Date TBD): Final Presentations](projects/Presentation.md)
 
 ## <a name="week1">Week 1</a> (Jan 14/16/18): Course Overview & Communication Tools
@@ -33,6 +33,14 @@ On Monady, I will review the syllabus, goals, and requirements for class, as wel
  
  - **Friday**: Today's class will be to go over each of your paper topics. (*due on myCourses by class on 1/23*)
    - [Project: Research Paper](projects/Paper.md)
+   
+## <a name="week2">Week 2</a> (Jan 23/25): Responsible Social Media Use
+
+- **Wednesday Readings**
+  - [danah boyd Keynote Speech, DML 2017: "Learning All The Wrong Things"](https://youtu.be/WWrD9wSsn3c?t=10m31s) (video is 1h22m; the actual talk is 40 minutes long, the rest is optional q&a)
+  - [This American Life #545: If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS](https://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) (53m)
+
+- **[Friday Exercise](exercises/socialmediaExercise/onlinePresence.md)**
 
 ## <a name="week2">Week 2</a> (Sep 4/6): Research and Critical Assessment
 
@@ -203,12 +211,3 @@ There will be no readings due for Tuesday (and therefore no quiz).
   - [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
 
 - **[Thursday Exercise: Video Editing](exercises/videoExercise/videoExercise.md)** - In this exercise, you will be creating a trailer for some form of media.
-
-## <a name="week15">Week 15</a> (Dec 4/6): Responsible Social Media Use
-
-- **[Tuesday Exercise](exercises/socialmediaExercise/onlinePresence.md)**
-
-- **Thursday Readings**
-  - [danah boyd Keynote Speech, DML 2017: "Learning All The Wrong Things"](https://youtu.be/WWrD9wSsn3c?t=10m31s) (video is 1h22m; the actual talk is 40 minutes long, the rest is optional q&a)
-  - [This American Life #545: If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS](https://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) (53m)
-
