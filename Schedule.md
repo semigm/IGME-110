@@ -16,7 +16,7 @@
 - [Week 12 (Nov 13/15): Digital Audio Concepts](#week12)
 - [Week 13 (Nov 20): Presentation Skills](#week13)
 - [Week 14 (Nov 27/29): Digital Video Concepts](#week14)
-- [Finals Week (Date TBD): Final Presentations](projects/Presentation.md)
+- [Finals Week (Date 5/3 10:45am - 1:15pm GOL-2570): Final Presentations](projects/Presentation.md)
 
 ## <a name="week1">Week 1</a> (Jan 14/16/18): Course Overview & Communication Tools
 On Monady, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Wednesday, we'll discuss communication tools you'll be using in the class, including Discord, and Google Docs.
