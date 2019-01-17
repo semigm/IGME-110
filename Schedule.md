@@ -3,7 +3,7 @@
 ## Contents
 - [Week 1 (Jan 14/16/18): Course Overview & Communication](#week1)
 - [Week 2 (Jan 23/25): Responsible Social Media Use](#week2)
-- [Week 2 (Sep 4/6): Research & Critical Assessment](#week2)
+- [Week 3 (Jan 28/30 Feb 1): Research & Critical Assessment](#week3)
 - [Week 3 (Sep 11/13): Legal Issues for Media Creators](#week3)
 - [Week 4 (Sep 18/20): Understanding the Web](#week4)
 - [Week 5 (Sep 25/27): Internet & Web Infrastructure](#week5)
@@ -42,24 +42,23 @@ On Monady, I will review the syllabus, goals, and requirements for class, as wel
 
 - **[Friday Exercise](exercises/socialmediaExercise/onlinePresence.md)**
 
-## <a name="week2">Week 2</a> (Sep 4/6): Research and Critical Assessment
+## <a name="week3">Week 3</a> (Jan 28/30 Feb 1): Research and Critical Assessment
 
-This week we'll be talking about information--how to find it, and how to evaluate it.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we'll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md).
+This week we'll be talking about information--how to find it, and how to evaluate it.  On Monday, we'll talk broadly about critically evaluating information online. On Wednesday, we'll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md). On Friday, we'll spend the class reviewing each other's research paper outlines.
 
-Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses dropbox before class on Tuesday, 9/5. 
-
-- **Tuesday Readings**
+- **Monday Readings**
   - [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
   - [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017 (4m17s video)](https://www.youtube.com/watch?v=1aTApGWVGoI)
   - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean) (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
-- **[Tuesday Exercise](exercises/infoEvalExercise/infoEvalExercise.md)**: In class, you'll complete an online exercise and then we'll discuss it as a group.  
+- **[Monday Exercise](exercises/infoEvalExercise/infoEvalExercise.md)**: In class, you'll complete an online exercise and then we'll discuss it as a group.  
 
-- **Thursday Readings**
+- **Wednesday Readings**
   - [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu) 
 
-- **[Thursday Exercise/Homework](exercises/biblioExercise/bibExercise.md)**: In this exercise, you will use the NoodleTools resource provided by the RIT Library to create an annotated bibliography, using a topic from the list provided. You'll start this exercise in class, but it's not due until 8am on Monday, 9/10.
+- **[Wednesday Exercise/Homework](exercises/biblioExercise/bibExercise.md)**: In this exercise, you will use the NoodleTools resource provided by the RIT Library to create an annotated bibliography, using a topic from the list provided. You'll start this exercise in class, but it's not due until 12pm on Monday, 2/4.
 
+- **Friday**: Today we will review each other's research papers. You must have at least the outline for your paper uploaded to the shared Google Drive folder. The more you have the more feedback you can get so if you have a list of references you have found or even some of it written you will get more of the class. You will be graded on that wether or not you uploaded your outline and that you reviewed at least two other papers.
 
 ## <a name="week3">Week 3</a> (Sep 11/13): Legal Issues for Media Creators
 As a creative professional, you need to be familiar with the laws governing the use of creative works--that includes not just copyright, but also trademark and patent laws. It's also important for you to be familiar with how employment and freelance contracts impact your ownership and use of your own creative work. 
