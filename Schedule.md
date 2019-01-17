@@ -27,9 +27,12 @@ On Monady, I will review the syllabus, goals, and requirements for class, as wel
 - **Wednesday Readings**
    - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
    
+- **[Wednesday In-Class Exercise](exercises/commExercise/commExercise.md)**: Hands-on practice with both Google Docs and Discord.
+   
  - **[Wednesday Homework](exercises/commHomework/commHomework.md)**: Set up your Discord nickname and a post to the #introductions channel. (Due by class 1/18)
-
-- **[Friday In-Class Exercise](exercises/commExercise/commExercise.md)**: Hands-on practice with both Google Docs and Discord. 
+ 
+ - **Friday**: Today's class will be to go over each of your paper topics. (*due on myCourses by class on 1/23*)
+   - [Project: Research Paper](projects/Paper.md)
 
 ## <a name="week2">Week 2</a> (Sep 4/6): Research and Critical Assessment
 
