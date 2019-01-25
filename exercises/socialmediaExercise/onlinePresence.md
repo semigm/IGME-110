@@ -9,7 +9,7 @@ If you already have a LinkedIn profile, great! If not, you will create one for t
 
 At a minimum, your profile should contain your name, your photo, your RIT affiliation, a summary (which should talk about the types of jobs you’re interested in getting) and any technical skills that you currently have. If you have relevant professional experience, you should add it here, as well. 
 
-When you’re finished, post a link to your profile in the [#linkedinprofiles](https://lawley-110-2017.slack.com/messages/C88SHC28Y) channel in Slack
+When you’re finished, post a link to your profile in the #introduction channel on Discord.
 
 ## Part Two: How Much Does Google Know About You?
 
