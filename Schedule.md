@@ -4,7 +4,7 @@
 - [Week 1 (Jan 14/16/18): Course Overview & Communication](#week1)
 - [Week 2 (Jan 23/25): Responsible Social Media Use](#week2)
 - [Week 3 (Jan 28/30 Feb 1): Research & Critical Assessment](#week3)
-- [Week 3 (Sep 11/13): Legal Issues for Media Creators](#week3)
+- [Week 4 (Feb 4/6/8): Legal Issues for Media Creators](#week4)
 - [Week 4 (Sep 18/20): Understanding the Web](#week4)
 - [Week 5 (Sep 25/27): Internet & Web Infrastructure](#week5)
 - [Week 6 (Oct 2/4): Introduction to Design](#week6)
@@ -60,10 +60,10 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 - **Friday**: Today we will review each other's research papers. You must have at least the outline for your paper uploaded to the shared Google Drive folder. The more you have the more feedback you can get so if you have a list of references you have found or even some of it written you will get more of the class. You will be graded on that wether or not you uploaded your outline and that you reviewed at least two other papers.
 
-## <a name="week3">Week 3</a> (Sep 11/13): Legal Issues for Media Creators
+## <a name="week4">Week 4</a> (Feb 4/6/8): Legal Issues for Media Creators
 As a creative professional, you need to be familiar with the laws governing the use of creative works--that includes not just copyright, but also trademark and patent laws. It's also important for you to be familiar with how employment and freelance contracts impact your ownership and use of your own creative work. 
 
-- **Tuesday Readings**
+- **Monday Readings**
   - [Copyright in General](https://www.copyright.gov/help/faq/faq-general.html)
   - [Hacker Lexicon: What is the DMCA?](https://www.wired.com/2016/06/hacker-lexicon-digital-millennium-copyright-act/)
   - [Video: A Fair(y) Use Tale](https://www.youtube.com/watch?v=CJn_jC4FNDo) (a captioned version can be found here: https://video.rit.edu/Watch/s2YSe69J)
@@ -71,7 +71,7 @@ As a creative professional, you need to be familiar with the laws governing the 
   - [The Legal Side of Open Source](https://opensource.guide/legal/)
  
 
-- **Thursday Readings**
+- **Friday Readings**
   - [F*ck You, Pay Me: Video of a talk by Mike Monteiro, founder of Mule Design](https://www.youtube.com/watch?v=jVkLVRt6c1U&app=desktop)
   - [Joel Spolsky's Quora answer to "If I'm working at a company, do they have intellectual property rights to the stuff I do in my spare time?"](http://www.brightjourney.com/q/working-company-intellectual-property-rights-stuff-spare-time#a-20136)
 
