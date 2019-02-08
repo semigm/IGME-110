@@ -5,7 +5,7 @@
 - [Week 2 (Jan 23/25): Responsible Social Media Use](#week2)
 - [Week 3 (Jan 28/30 Feb 1): Research & Critical Assessment](#week3)
 - [Week 4 (Feb 4/6/8): Legal Issues for Media Creators](#week4)
-- [Week 5 (Sep 18/20): Understanding the Web](#week5)
+- [Week 5 (Feb 11/13/15): Understanding the Web](#week5)
 - [Week 6 (Sep 25/27): Internet & Web Infrastructure](#week6)
 - [Week 7 (Oct 2/4): Introduction to Design](#week7)
 - [Week 8 (Oct 11): Digital Typography](#week8)
@@ -80,24 +80,14 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 This week we’ll talk about how the web differs from other types of media, and you'll learn how to create basic web pages using HTML and CSS.
 
-(For the Getting Started with the Web articles in this week's readings, make sure you work through the hands-on exercises!)
-
-- **Tuesday Readings**
+- **Monday Readings**
   - [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
-  - [Getting Started with the Web: Installing Basic Software (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-  - [Getting Started with the Web: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-  - [Getting Started with the Web: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
-- **[Tuesday Exercise](exercises/markupExercise/basicMarkupExercise.md)** In today's exercise, you'll create a basic HTML page, with links and images.
+- **[Exercise]** Wi have it my monday
   
-- **Thursday Readings**
-  - [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-  
-- **Thursday Class** During class we will do a review of your second draft for your papers. This will be optional for anyone who wants it. I will also review drafts on a first come first server basis.
+- **Friday Class** During class we will do a review of your second draft for your papers. This will be optional for anyone who wants it. I will also review drafts on a first come first server basis.
 
-- **[Thursday Exercise](exercises/positioningExercise/cssPositioningExercise.md)** You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
-
-- **[Homework Exercise to Prepare for Week 5](exercises/unixHomework/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* next week, so that if there are problems you have time to correct them!
+- **[Homework Exercise to Prepare for Week 6](exercises/unixHomework/unixHomework.md)**: During week 6, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* next week, so that if there are problems you have time to correct them!
 
 ## <a name="week6">Week 6</a> (Sep 25/27): Internet & Web Infrastructure
 
