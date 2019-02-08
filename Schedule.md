@@ -84,8 +84,6 @@ This week we’ll talk about how the web differs from other types of media, and 
   - [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
 
 - **[Exercise](https://www.codecademy.com/learn/make-a-website)** Complete sections 1-3 of Codecademy's Make a Website course. If you do not already have an account you can make one with your RIT email. You can work on this at home if you choose, however I strongly recommend you work on it in class. When you are done you will have to post a link to your Codecademy profile so I can see that you earned the badges for the course (*https://www.codecademy.com/YOUR_USERNAME#######*)
-  
-- **Friday Class** During class we will do a review of your second draft for your papers. This will be optional for anyone who wants it. I will also review drafts on a first come first server basis.
 
 - **[Homework Exercise to Prepare for Week 6](exercises/unixHomework/unixHomework.md)**: During week 6, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* next week, so that if there are problems you have time to correct them!
 
