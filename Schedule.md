@@ -87,19 +87,19 @@ This week we’ll talk about how the web differs from other types of media, and 
 
 - **[Homework Exercise to Prepare for Week 6](exercises/unixHomework/unixHomework.md)**: During week 6, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* next week, so that if there are problems you have time to correct them!
 
-## <a name="week6">Week 6</a> (Sep 25/27): Internet & Web Infrastructure
+## <a name="week6">Week 6</a> (Feb 18/20/22): Internet & Web Infrastructure
 
 Once you've created web pages, how do you publish them?  We'll talk about how the Internet and web servers work. Since most web servers use the UNIX operating system, you'll learn how to use a terminal emulation program to connect to a server and enter commands, and  how to use FTP (file transfer program) to transfer files from your computer to a web server. 
 
-- **Tuesday Readings**
+- **Monday Readings**
   - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc) (a bit out of date, but the concepts are sound)
 
-- **Thursday Readings**
+- **Wednesday Readings**
   - [Getting Started with the Web: Publishing Your Website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
   - [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
   - [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
 
-- **[Thursday Exercise](exercises/unixExercise/unixExercise.md)** In this exercise, you’ll develop familiarity with the UNIX command line environment by logging into RIT’s banjo.rit.edu server and executing a number of UNIX commands.
+- **[Wednesday Exercise](exercises/markupExercise/basicMarkupExercise.md)** In this exercise you'll create some basic HTML files, and then use an FTP client to upload HTML files to the RIT server.
 
 
 ## <a name="week7">Week 7</a> (Oct 2/4): Understanding Design
