@@ -106,7 +106,7 @@ Once you've created web pages, how do you publish them?  We'll talk about how th
 Design doesn't just mean graphics and visual aesthetics. On Monday we'll talk about the different types of design for interactive media, as well as discussing design as a process.  On Wednesday we'll mess around with positioning elements of our webpages using css. Then on Friday we'll learn about the importance of fonts and how to add differnet fonts to our pages.
 
 - **Wednesday Readings**
-- [Lynda.com: Making Sense of the CSS Box Model, Sections 1-3](https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html?org=rit.edu) - This is not a hands-on tutorial, so you should be able to complete it fairly quickly.
+  - [Lynda.com: Making Sense of the CSS Box Model, Sections 1-3](https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html?org=rit.edu) - This is not a hands-on tutorial, so you should be able to complete it fairly quickly.
   - Readings from W3 Schools 
     - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
     - [CSS Layout: Display](https://www.w3schools.com/css/css_display_visibility.asp)
