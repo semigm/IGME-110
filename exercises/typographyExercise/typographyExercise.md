@@ -96,4 +96,7 @@ In the top half of the sample image below, you can see what it looks like if you
 (Note: If your HTML page uses UTF-8 encoding, you may not need to use HTML entities; however, especially when dealing with legacy code, you may be dealing with pages that use older type encoding.)
 
 ## Submitting Your Work 
-Use an FTP client to upload the typography directory and its contents to the igme110 directory in your www directory on Banjo. We’ll check `http://people.rit.edu/youruserid/igme110/typography/fonts.html` to see if you’ve completed the exercise. Make sure you test that URL to ensure that the files appear properly and can be loaded in a browser! The file must be available at the specified URL by class on Tuesday.
+Upload the typography directory and its contents to the your igme110 GitHub repo.
+> userName.github.io/igme110/typography/fonts.html
+
+Make sure you test that URL to ensure that the files appear properly and can be loaded in a browser! The file must be available at the specified URL by class on Monday (3/4).
