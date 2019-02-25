@@ -6,9 +6,9 @@ Today you're going to put into practice some of the CSS box model and positionin
 ![Example Layout](sample.png)
 
 ## Setting Up Files and Folders
-Download the [week8.zip](week8.zip) file from GitHub, and unzip the archive.
+Download the [cssPositioning.zip](cssPositioning.zip) file from GitHub, and unzip the archive.
 
-You should now have a week8 folder with three files in it: a layout.html file with the basic structure and content for the page you need to create, the photo that's included on the page, and a layout.css file in which you'll put the necessary CSS rules.
+You should now have a cssPositioning folder with three files in it: a layout.html file with the basic structure and content for the page you need to create, the photo that's included on the page, and a layout.css file in which you'll put the necessary CSS rules.
 
 ## Changing the HTML Content
 Don't. :) Your goal is to replicate what you see in the screen shot!
@@ -124,4 +124,7 @@ footer {
 }
 ``` 
 ## Uploading and Due Date
-At the end of class, upload the week8 folder with your edited layout.css file to your igme110 folder on banjo.rit.edu. 'people.rit.edu/youruserid/igme110/week8/layout.html' (Even if you didn't finish--you should have *something* up there just in case.) You have until the start of next class (9/25) complete the exercise, but you have to have something posted by the end of today's class.
+Upload the week8 folder with your edited layout.css file to your igme110 folder on GitHub.
+> userName.github.io/igme110/cssPositioning/layout.html
+
+You have until the start of monday's' class (3/4) to complete the exercise.
