@@ -4,7 +4,8 @@
 - Professor: Eric Baker
   - Office: 2569 Golisano Hall
   - Email: eabigm@rit.com
-  - Office hours: TBA
+  - Office hours:
+   - Tuesday & Thursday 10:00am-12:00pm
 - Class Time/Location:
   - Mondays, Wednesdays & Fridays, 12:00-12:50pm, 2570 Golisano Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
@@ -43,11 +44,11 @@ To demonstrate your understanding of basic media creation, you will create a tra
 ### [Presentation (20% of final grade)](projects/Presentation.md)
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration. 
 
-### Quizzes (10% of final grade)
-I will give at least one quiz each week, with content drawn from that week’s readings. You are allowed to bring a sheet of (handwritten) notes with you to class to use while taking the quiz. The quizzes will also serve as an attendance-taking mechanism.  There are 15 weeks of lecture, but at the end of the semester I will drop your lowest five quiz grades, so only the top ten quizzes will count. I do not give makeup quizzes; if you miss a quiz, even for an excused absence, it will count as one of your dropped grades.
+### Group Notes  (15% of final grade)
+You will be assigned to a group for collaborative note-taking during the semester, using RIT’s Google Docs. You will need to take notes for both any readings for class and lectures given during class. You are expected to actively participate in creating and/or editing the notes. Your group will receive a grade for the quality of the notes, but if you did not participate in a substantive way you will receive no credit. 
 
-### Group Notes  (10% of final grade)
-You will be assigned to a group for collaborative note-taking during the semester, using RIT’s Google Docs. You are expected to actively participate in creating and/or editing the notes. Your group will receive a grade for the quality of the notes, but if you did not participate in a substantive way you will receive no credit.
+### Class Participation  (5% of final grade)
+A major focus of this class will be on developming your critiquing skills. This will mean you will have to give and receive feedback on work made in class.
 	
 ## Additional Policies
 
