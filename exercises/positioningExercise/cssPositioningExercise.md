@@ -124,7 +124,7 @@ footer {
 }
 ``` 
 ## Uploading and Due Date
-Upload the week8 folder with your edited layout.css file to your igme110 folder on GitHub.
+Upload the cssPositioning folder with your edited layout.css file to your igme110 folder on GitHub.
 > userName.github.io/igme110/cssPositioning/layout.html
 
 You have until the start of monday's' class (3/4) to complete the exercise.
