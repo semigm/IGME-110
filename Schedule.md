@@ -130,6 +130,7 @@ Design doesn't just mean graphics and visual aesthetics. On Monday we'll talk ab
 ## <a name="week8">Week 8</a> (Mar 4/6/8): Critique
 
 - **Readings**
+  - [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
   - [10 design concepts that every web developer needs to know](http://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255)
   - [A Simple Web Developer's Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
   
