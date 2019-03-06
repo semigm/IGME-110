@@ -17,7 +17,7 @@ The goal of this exercise is to critique the visual design of a website, and to 
   - Establish a clear view path from most to least important.
   - Provide straight scan lines for the eye to move along easily.
 
-Working with your note-taking group, start by picking a genre of web site: government agency, university, law firm, design company/consultancy, or game software company. Discuss the possible goal (or goals) for that type of website. Create a Google doc in your group's Week 7 folder, and write down the type of site you chose, and the goal(s) that you identified.  
+Working with your note-taking group, start by picking a genre of web site: government agency, university, law firm, design company/consultancy, or game software company. Discuss the possible goal (or goals) for that type of website. Create a Google doc in your group's Week 8 folder, and write down the type of site you chose, and the goal(s) that you identified.  
 
 Each member of your group should now find one website of that type that you think uses typography and design well to meet the goal(s) you described in step #1, and one that you think does it poorly. Add those (with links) to the Google doc. 
 
