@@ -85,8 +85,8 @@ In the exercise folder, find and open logo.psd and photo.psd.
 
 Assume that you have been asked to put these images onto a web page, and you need to publish them in a format that will allow them to load quickly on a web page without significantly compromising their quality. They also need to fit properly onto an 800x600 screen. 
 
-Put the optimized versions of the images into a folder called week9, and create an index.html file in that folder that includes both images. Add text to the index.html page explaining what changes you made to each of the images, why you made them, and what the resulting file size was. Upload the folder (which should have three items in it--the index.html file and the two web-optimized images) to your igme110 folder on banjo.rit.edu.   
+Put the optimized versions of the images into a folder called week9, and create an index.html file in that folder that includes both images. Add text to the index.html page explaining what changes you made to each of the images, why you made them, and what the resulting file size was. Upload the folder (which should have three items in it--the index.html file and the two web-optimized images) to your igme110 folder on your GitHub repo.   
 
-Test it by going to this URL `http://people.rit.edu/yourid/igme110/week9` (substituting your RIT ID for "your id") 
+> userName.github.io/igme110/week9
 
-The page should avaialbe for me to view by class on Tuesday, October 29th.
+The page should avaialbe for me to view by class on Friday, March 22nd.
