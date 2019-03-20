@@ -145,7 +145,7 @@ This week we'll talk about the underlying concepts critical to understanding dig
   - [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
   - [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
 
-- **[Image Optimization Homework](exercises/imageOptimizeExercise/color-optimizationExercise.md) due(10/29)**: This exercise will give you experience with different image formats and optimizing them for the web.
+- **[Image Optimization Homework](exercises/imageOptimizeExercise/color-optimizationExercise.md) due(3/22)**: This exercise will give you experience with different image formats and optimizing them for the web.
 
 ## <a name="week10">Week 10</a> (Mar 25/27/29): Digital Image Applications
 This week we'll learn about how to make an image.
