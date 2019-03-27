@@ -150,7 +150,7 @@ This week we'll talk about the underlying concepts critical to understanding dig
 ## <a name="week10">Week 10</a> (Mar 25/27/29): Digital Image Applications
 This week we'll learn about how to make an image.
 
-- **[Tuesday Exercise](exercises/compositingExercise/compositingExercise.md)**: This exercise will give you experience with PhotoShop.
+- **[Tuesday Exercise](exercises/compositingExercise/compositingExercise.md)** due (3/29): This exercise will give you experience with PhotoShop.
 
 ## <a name="week11">Week 11</a> (Apr 1/3/5): Digital Audio Concepts
 
