@@ -11,19 +11,6 @@ Your video must meet the following requirements:
 3.  Your video must have at least 6 effects (with transitions counting as effects).
 
 
-# Premiere Tips
-
-Adding files to your project: To add files to your project, simply drag them directly onto the timeline. You can also use File>Import.
-
-Saving your project: Save your project as you normally would (File>Save). This will create a .prproj file. You can reopen this .prproj file, but know that the prproj file does not save all of your source material (compared to .psd files in Photoshop which contain everything you are working with). This means that you cannot delete, move, or rename your source files once they have been imported. If you move or rename your file, you'll be able to locate your files again.
-
-Opening your project: Sometimes when opening your project, your project timeline will be blank. Look for the saved version of your project timeline. It will look like this:
-
-![timelinePicture](savedTimeline.PNG)
-
-If you have other questions, feel free to ask me or look it up on the internet.
-
-
 # Rendering your Video
 
 BEFORE RENDERING: Save your project, and ensure that it is properly saved. Sometimes rendering can cause the program to crash and you might lose some or all of your work.
@@ -35,12 +22,10 @@ Exporting should take a few seconds. If it takes more than a minute, something i
 
 # Submitting Your Work
 
-You will need to submit three things to the dropbox for this assignment.
-1.  A rendered version of your trailer (see above for details on rendering in Premiere).
-2.  A screenshot of your project timeline in Premiere, to show that you actually did your own edits (see below for example).
-3.  A text document explaining your intent / thought process in creating the video (3 sentences or less).
+You will need to submit two seperate things for this assignment
+1. Your project file to the myCourses Dropbox
 
-
-A sample timeline screenshot:
-
-![timelinePicture](sampleTimeline.PNG)
+1. A page to your GitHub repo at `igme110/trailer/index.html` with the following content:
+   - A rendered version of your trailer (see above for details on rendering in Premiere)
+   - A text document explaining your intent / thought process in creating the video
+   - Links to all assets used in the trailer (video/audio)
