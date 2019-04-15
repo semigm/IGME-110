@@ -9,6 +9,7 @@ Your video must meet the following requirements:
 1.  Your submitted video must be between 1-2 minutes long.
 2.  Your video must have at least 10 cuts (switches between shots).
 3.  Your video must have at least 6 effects (with transitions counting as effects).
+1.  Video end on an image of credits.
 
 
 # Rendering your Video
