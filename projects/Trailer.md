@@ -23,7 +23,7 @@ Exporting should take a few seconds. If it takes more than a minute, something i
 
 # Submitting Your Work
 
-You will need to submit two seperate things for this assignment
+This project is **due by the start of class Friday, April 26th**. You will need to submit two seperate things for this assignment
 1. Your project file to the myCourses Dropbox
 
 1. A page to your GitHub repo at `igme110/trailer/index.html` with the following content:
