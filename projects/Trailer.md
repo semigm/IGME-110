@@ -21,6 +21,11 @@ Once you have edited your video and saved your project, you will need to "render
 Exporting should take a few seconds. If it takes more than a minute, something is probably wrong or your video is too long. Let me know if it seems like the program has frozen.
 
 
+# Rubric
+
+![Rubric](rubric.png)
+
+
 # Submitting Your Work
 
 This project is **due by the start of class Friday, April 26th**. You will need to submit two seperate things for this assignment
