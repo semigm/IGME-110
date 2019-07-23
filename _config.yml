@@ -1,0 +1,7 @@
+theme:        jekyll-theme-slate
+
+plugins:
+  - jekyll-sitemap
+
+title:        IGME 110
+description:  Introduction to Interactive Media
