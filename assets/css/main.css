@@ -1,0 +1,43 @@
+nav {
+  padding: 10px 0px 0px 0px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+nav li:last-child {
+  border-right: none;
+}
+
+nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 6px 26px;
+  text-decoration: none;
+}
+
+nav .active {
+  background-color: #4CAF50;
+}
+
+nav li:hover:not(.active) {
+  background-color: #111;
+}
+
+.language-csharp.highlighter-rouge {
+    margin: 4px 0px 10px 0px;
+}
+
+#header_wrap .inner {
+    padding: 50px 10px 0px 10px;
+}

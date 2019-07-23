@@ -1,3 +1,16 @@
+{% assign homeNav = "" %}
+{% assign syllabusNav = "" %}
+{% assign scheduleNav = "" %}
+
+<!--  Home Nav -->
+{% if page.nav == "home" %}
+    {% assign homeNav = "active" %}
+{% elsif page.nav == "syllabus" %}
+    {% assign syllabusNav = "active" %}
+{% elsif page.nav == "schedule" %}
+    {% assign scheduleNav = "active" %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
@@ -6,6 +19,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/main.css' | relative_url }}">
 
 {% seo %}
   </head>
@@ -21,6 +35,20 @@
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+
+          <nav>
+            <ul>
+              <li class="{{ homeNav }}">
+                <a href="{{ '/' | relative_url }}">Home</a>
+              </li>
+              <li class="{{ syllabusNav }}">
+                <a href="{{ '/syllabus' | relative_url }}">Syllabus</a>
+              </li>
+              <li class="{{ scheduleNav }}">
+                <a href="{{ '/schedule' | relative_url }}">Schedule</a>
+              </li>
+            </ul>
+          </nav>
         </header>
     </div>
 
