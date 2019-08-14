@@ -43,9 +43,9 @@ These are brief descriptions of each of the assignments. Follow the links to see
 
 At least once a week there will be an in-class exercise. I will also occasionally assign homework in addition to the exercise.
 
-### [Research Paper (20% of final grade)](projects/Paper.md)
+### Game Box (20% of final grade)
 
-For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument.
+TO demonstrate your understanding of design principles you will design a game box for an existing game.
 
 ### Video Trailer (20% of final grade)
 
@@ -55,11 +55,11 @@ To demonstrate your understanding of basic media creation, you will create a tra
 
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration.
 
-### Group Notes  (15% of final grade)
+### Group Notes  (10% of final grade)
 
 You will be assigned to a group for collaborative note-taking during the semester, using RIT’s Google Docs. You will need to take notes for both any readings for class and lectures given during class. You are expected to actively participate in creating and/or editing the notes. Your group will receive a grade for the quality of the notes, but if you did not participate in a substantive way you will receive no credit.
 
-### Class Participation  (5% of final grade)
+### Critique Participation  (10% of final grade)
 
 A major focus of this class will be on developming your critiquing skills. This will mean you will have to give and receive feedback on work made in class.
 
