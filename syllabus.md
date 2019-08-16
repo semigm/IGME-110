@@ -47,11 +47,11 @@ At least once a week there will be an in-class exercise. I will also occasionall
 
 TO demonstrate your understanding of design principles you will design a game box for an existing game.
 
-### Video Trailer (20% of final grade)
+### [Video Trailer (20% of final grade)](/projects/Trailer.md)
 
 To demonstrate your understanding of basic media creation, you will create a trailer for a film/show/game.
 
-### [Presentation (20% of final grade)](projects/Presentation.md)
+### [Presentation (20% of final grade)](/projects/Presentation.md)
 
 Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration.
 
