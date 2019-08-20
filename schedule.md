@@ -5,14 +5,14 @@
   week1: "Week 1 (8/26): Course Overview & Communication Tools"
   week2: "Week 2 (9/2): Research and Critical Assessment"
   week3: "Week 3 (9/9): Legal Issues for Media Creators"
-  week4: "Week 4 (9/16): Visual Design & Typography"
-  week5: "Week 5 (9/23): Createing Digital Images"
+  week4: "Week 4 (9/16): Visual Design"
+  week5: "Week 5 (9/23): Digital Images"
   week6: "Week 6 (9/30): Critique"
   week7: "Week 7 (10/7): Interaction/Functional Design"
   week8: "Week 8 (10/14): Responsible Social Media Use"
-  week9: "Week 9 (10/21): Creting Digital Audio"
+  week9: "Week 9 (10/21): Digital Audio"
   week10: "Week 10 (10/28): Sound Design"
-  week11: "Week 11 (11/4): Creating Digital Video"
+  week11: "Week 11 (11/4): Digital Video"
   week12: "Week 12 (11/11): Film Language"
   week13: "Week 13 (11/18): "
   week14: "Week 14 (11/25): Presentation Skills"
@@ -60,6 +60,7 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 -   **Readings**
 
     -   [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
+    -   [Discord - Getting Started](https://support.discordapp.com/hc/en-us/articles/219470277-Getting-Started)
     -   [Use Google Docs to Collaborate on CLass Note Taking](https://www.huffingtonpost.com/hack-college/use-google-docs-to-collab_b_844192.html)
 
 -   **[In-Class Exercise](exercises/commExercise/commExercise.md)**
@@ -67,36 +68,46 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
     -   Hands-on practice with both Google Docs and Discord.
 
 -   **[Homework](projects/Paper.md)**
+
     -   Submit your paper topic to the myCourses dropbox.
     -   **Due by Tuesday's class**
 
 {% include top.html id="week2" content=page.week2 %}
 
-This week we'll be talking about information--how to find it, and how to evaluate it.  On Tuesday, we'll talk broadly about critically evaluating information online. On Wednesday, we'll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md).
+This week we'll be talking about information--how to find it, and how to evaluate it.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we’ll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md).
 
 ### Tuesday (9/3)
 
 -   **Readings**
+
     -   [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
-    -   [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017 (4m17s video)](https://www.youtube.com/watch?v=1aTApGWVGoI)
+    -   [The Grim Conclusions of the Largest-Ever Study of Fake News](https://www.theatlantic.com/technology/archive/2018/03/largest-study-ever-fake-news-mit-twitter/555104/)
     -   [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean)
         -   (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
+
 -   **[Exercise](exercises/infoEvalExercise/infoEvalExercise.md)**
+
     -   In class, you'll complete an online exercise and then we'll discuss it as a group.
 
 ### Thursday (9/5)
 
 -   **Readings**
-    -   [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu)
+
+    -   [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](http://guides.lib.jjay.cuny.edu/c.php?g=288333&p=1922550)
+    -   [Six Tips to Finding Research Sources That Set You Apart](https://www.studyright.net/blog/research-paper-sources/)
+    -   [Researching the Interactive Media Industry](http://infoguides.rit.edu/c.php?g=332548&p=2258424)
+
 -   **[Exercise](exercises/biblioExercise/bibExercise.md)**
+
     -   In this exercise, you will use the NoodleTools resource provided by the RIT Library to create an annotated bibliography, using a topic from the list provided.
+
 -   **[Homework](projects/Paper.md)**
     -   Write the first draft of your paper.
     -   **Due by Next Thursday's class**
 
 {% include top.html id="week3" content=page.week3 %}
 
-As a creative professional, you need to be familiar with the laws governing the use of creative works--that includes not just copyright, but also trademark and patent laws. It's also important for you to be familiar with how employment and freelance contracts impact your ownership and use of your own creative work.
+As a creative professional, you need to be familiar with the laws governing the use of creative works–that includes not just copyright, but also trademark and patent laws.
 
 ### Tuesday (9/10)
 
@@ -110,9 +121,6 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 ### Thursday (9/12)
 
--   **Readings**
-    -   [F\*ck You, Pay Me: Video of a talk by Mike Monteiro, founder of Mule Design](https://www.youtube.com/watch?v=jVkLVRt6c1U&app=desktop)
-    -   [Joel Spolsky's Quora answer to "If I'm working at a company, do they have intellectual property rights to the stuff I do in my spare time?"](http://www.brightjourney.com/q/working-company-intellectual-property-rights-stuff-spare-time#a-20136)
 -   **In-Class Exercises**
     -   You will work as a group to gether assets for a prototype of a game idea I've come up with.
 -   **[Homework](projects/Paper.md)**
@@ -124,7 +132,7 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 {% include top.html id="week4" content=page.week4 %}
 
-Design doesn’t just mean graphics and visual aesthetics. We’ll talk about the different types of design for interactive media, as well as discussing design as a process.
+When creating interactive media--whether it's a website, a game, or an application--it turns out that looks do matter! On Tuesday, we’ll talk about visual design concepts, and on Thursday we'll focus on digital typography.
 
 ### Tuesday (9/17)
 
@@ -143,10 +151,11 @@ Design doesn’t just mean graphics and visual aesthetics. We’ll talk about th
 
 {% include top.html id="week5" content=page.week5 %}
 
+This week we’ll talk about the underlying concepts critical to understanding digital images–including resolution, color models, compression, and file formats. I expect you to already have a basic understanding of Photoshop; if you don't, review [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html) before Thursday's class.
+
 ### Tuesday (9/24)
 
 -   **Readings**
-    -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
     -   [Adobe.com: Image Size and Resolution](https://helpx.adobe.com/photoshop/using/image-size-resolution.html)
     -   [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
     -   [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
@@ -274,7 +283,9 @@ This week we'll talk about the underlying concepts critical to understanding dig
 
 {% include top.html id="week14" content=page.week14 %}
 
-This week we'll discuss the importance of good presentation skills, and look at examples of effective short-form presentations. If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own, and complete the "Week 13 Lecture Materials Homework" in the Quizzes section of myCourses. Students attending class on Tuesday do not need to complete the homework, but will have a quiz on the readings.
+This week we’ll discuss the importance of good presentation skills, and look at examples of effective short-form presentations.
+
+If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own.
 
 ### Tuesday (11/26)
 
