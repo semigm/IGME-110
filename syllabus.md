@@ -47,9 +47,9 @@ At least once a week there will be an in-class exercise. I will also occasionall
 
 For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument.
 
-### [Video Trailer (20% of final grade)](/projects/Trailer.md)
+### [Web Site (20% of final grade)](projects/Website.md)
 
-To demonstrate your understanding of basic media creation, you will create a trailer for a film/show/game.
+To demonstrate your understand of basic web development, you will create a website that provides access to information related to your paper topic.
 
 ### [Presentation (20% of final grade)](/projects/Presentation.md)
 
@@ -67,8 +67,8 @@ A major focus of this class will be on developing your critiquing skills. This w
 
 ### Important RIT Deadlines
 
--   Last day of add/drop is 4 September 2018.
--   Last day to withdraw with a grade of “W” is 9 November 2017.
+-   Last day of add/drop is 4 September 2019.
+-   Last day to withdraw with a grade of “W” is 8 November 2018.
 -   You have one semester after the class has ended to challenge your grade.
 
 ### Communication
