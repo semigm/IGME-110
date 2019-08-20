@@ -266,8 +266,11 @@ This week we'll talk about the underlying concepts critical to understanding dig
 ### Thursday (11/21)
 
 -   **Readings**
--   **In-Class Exercises**
--   **Homework**
+-   **[Exercise](projects/Trailer.md)**
+    -   You will critique each other's video.
+    -   You must have the source materials you will be working from and an outline of what you plan to make.
+    -   The more you have done the more feedback you can get.
+    -   You will be graded on wether or not you uploaded your outline and that you critiqued at least two other videos.
 
 {% include top.html id="week14" content=page.week14 %}
 
