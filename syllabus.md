@@ -9,7 +9,7 @@
 
 **_Please read this document carefully and bookmark it for future reference. It provides the context and structure which will guide all aspects of this course._**
 
-**_This is NOT the same syllabus as other sections of GDAPS 2. While most elements of the course will be very similar, they will not be identical._**
+**_This is NOT the same syllabus as other sections of 110. While most elements of the course will be very similar, they will not be identical._**
 
 ## Course Catalog Description
 
@@ -43,9 +43,9 @@ These are brief descriptions of each of the assignments. Follow the links to see
 
 At least once a week there will be an in-class exercise. I will also occasionally assign homework in addition to the exercise.
 
-### Game Box (20% of final grade)
+### [Research Paper (20% of final grade)](projects/Paper.md)
 
-TO demonstrate your understanding of design principles you will design a game box for an existing game.
+For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument.
 
 ### [Video Trailer (20% of final grade)](/projects/Trailer.md)
 
@@ -61,7 +61,7 @@ You will be assigned to a group for collaborative note-taking during the semeste
 
 ### Critique Participation  (10% of final grade)
 
-A major focus of this class will be on developming your critiquing skills. This will mean you will have to give and receive feedback on work made in class.
+A major focus of this class will be on developing your critiquing skills. This will mean you will have to give and receive feedback on work made in class.
 
 ## Additional Policies
 
