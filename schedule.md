@@ -5,18 +5,18 @@
   week1: "Week 1 (8/26): Course Overview & Communication Tools"
   week2: "Week 2 (9/2): Research and Critical Assessment"
   week3: "Week 3 (9/9): Legal Issues for Media Creators"
-  week4: "Week 4 (9/16): Visual Design"
-  week5: "Week 5 (9/23): Digital Images"
+  week4: "Week 4 (9/16): Visual Design & Typography"
+  week5: "Week 5 (9/23): Creating Digital Images"
   week6: "Week 6 (9/30): Critique"
-  week7: "Week 7 (10/7): Interaction/Functional Design"
-  week8: "Week 8 (10/14): Responsible Social Media Use"
-  week9: "Week 9 (10/21): Digital Audio"
-  week10: "Week 10 (10/28): Sound Design"
-  week11: "Week 11 (11/4): Digital Video"
+  week7: "Week 7 (10/7): Understanding the Web"
+  week8: "Week 8 (10/14): Web Layout"
+  week9: "Week 9 (10/21): UNIX, Git & GitHub"
+  week10: "Week 10 (10/28): Accessibility"
+  week11: "Week 11 (11/4): Creating Digital Audio"
   week12: "Week 12 (11/11): Film Language"
-  week13: "Week 13 (11/18): "
+  week13: "Week 13 (11/18): Creating Digital Video"
   week14: "Week 14 (11/25): Presentation Skills"
-  week15: "Week 15 (12/2): The Big Picture"
+  week15: "Week 15 (12/2): Responsible Social Media Use"
 ---
 
 # Schedule of Topics
@@ -178,61 +178,69 @@ This week we’ll talk about the underlying concepts critical to understanding d
 
 {% include top.html id="week7" content=page.week7 %}
 
+This week we’ll talk about how the web differs from other types of media, and you'll learn how to create basic web pages using HTML and CSS.
+
+For the Getting Started with the Web articles in this week's readings, make sure you work through the hands-on exercises!
+
 ### Tuesday (10/8)
 
 -   **Readings**
--   **In-Class Exercises**
--   **Homework**
+    - [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
+    - [Getting Started with the Web: Installing Basic Software (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+    - [Getting Started with the Web: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+    - [Getting Started with the Web: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+-   **[Exercise](exercises/markupExercise/basicMarkupExercise.md)**
+    - In today's exercise, you'll create a basic HTML page, with links and images.
 
 ### Thursday (10/10)
 
 -   **Readings**
--   **In-Class Exercises**
--   **Homework**
+    - [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+-   **Exercise**
+    - You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
 
 {% include top.html id="week8" content=page.week8 %}
 
 ### Thursday (10/17)
 
 -   **Readings**
-    -   [danah boyd Keynote Speech, DML 2017: "Learning All The Wrong Things"](https://youtu.be/WWrD9wSsn3c?t=10m31s)
-    -   [This American Life #545: If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS](https://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps)
--   **[Homework](exercises/socialmediaExercise/onlinePresence.md)**
+    -   [MDN: Introduction to CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+    - [MDN: Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+    - [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+-   **Exercise**
+    - Before class, upload at least one visual mockup of your site to your note-taking group's folder for peer review in class.
+    - These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
+    - All you need to provide is a screenshot or exported image.
+    - In class, we'll do critiques and then start on implementing the design using Flexbox.
 
 {% include top.html id="week9" content=page.week9 %}
 
-This week we'll talk about the underlying concepts critical to understanding digital images--including resolution, color models, compression, and file formats. This will require you to learn the basics of Adobe Photoshop, so that you can manipulate those aspects of images yourself.
+Once you’ve created your web pages, how do you publish them? We’ll talk about how the Internet and web servers work.
 
 ### Tuesday (10/22)
 
 -   **Readings**
-    -   [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
-    -   [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
-    -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
--   **In-Class Exercises**
+-   **Exercise**
 -   **Homework**
 
 ### Thursday (10/24)
 
 -   **Readings**
-    -   [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
-    -   [Audacity Software Download](http://www.audacityteam.org/download/)
-        -   Only necessary if you want to do the tutorial on your own computer.
--   **[Exercise](exercises/audioExercise/audioExercise.md)**
-    -   In today's exercise you will add audio to a video.
+-   **Exercise**
+-   **Homework**
 
 {% include top.html id="week10" content=page.week10 %}
 
 ### Tuesday (10/29)
 
 -   **Readings**
--   **In-Class Exercises**
+-   **Exercise**
 -   **Homework**
 
 ### Thursday (10/31)
 
 -   **Readings**
--   **In-Class Exercises**
+-   **Exercise**
 -   **Homework**
 
 {% include top.html id="week11" content=page.week11 %}
@@ -240,28 +248,31 @@ This week we'll talk about the underlying concepts critical to understanding dig
 ### Tuesday (11/5)
 
 -   **Readings**
--   **In-Class Exercises**
+    -   [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
+    -   [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
+    -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
 -   **Homework**
+    -   [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
+    -   [Audacity Software Download](http://www.audacityteam.org/download/)
+        -   Only necessary if you want to do the tutorial on your own computer.
 
 ### Thursday (11/7)
 
--   **Readings**
-    -   [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
--   **[Exercise](exercises/videoExercise/videoExercise.md)**
-    -   In this exercise, you will be creating a trailer for some form of media.
+-   **[Exercise](exercises/audioExercise/audioExercise.md)**
+    -   In today's exercise you will add audio to a video.
 
 {% include top.html id="week12" content=page.week12 %}
 
 ### Tuesday (11/12)
 
 -   **Readings**
--   **In-Class Exercises**
+-   **Exercise**
 -   **Homework**
 
 ### Thursday (11/14)
 
 -   **Readings**
--   **In-Class Exercises**
+-   **Exercise**
 -   **Homework**
 
 {% include top.html id="week13" content=page.week13 %}
@@ -269,17 +280,15 @@ This week we'll talk about the underlying concepts critical to understanding dig
 ### Tuesday (11/19)
 
 -   **Readings**
--   **In-Class Exercises**
+-   **Exercise**
 -   **Homework**
 
 ### Thursday (11/21)
 
 -   **Readings**
--   **[Exercise](projects/Trailer.md)**
-    -   You will critique each other's video.
-    -   You must have the source materials you will be working from and an outline of what you plan to make.
-    -   The more you have done the more feedback you can get.
-    -   You will be graded on wether or not you uploaded your outline and that you critiqued at least two other videos.
+    -   [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
+-   **[Exercise](exercises/videoExercise/videoExercise.md)**
+    -   In this exercise, you will be creating a trailer for some form of media.
 
 {% include top.html id="week14" content=page.week14 %}
 
@@ -299,11 +308,8 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
 ### Tuesday (12/3)
 
 -   **Readings**
--   **In-Class Exercises**
--   **Homework**
+    -   [This American Life #545: If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS](https://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps)
 
 ### Thursday (12/5)
 
--   **Readings**
--   **In-Class Exercises**
--   **Homework**
+-   **[Exercise](exercises/socialmediaExercise/onlinePresence.md)**
