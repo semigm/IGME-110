@@ -185,19 +185,19 @@ For the Getting Started with the Web articles in this week's readings, make sure
 ### Tuesday (10/8)
 
 -   **Readings**
-    - [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
-    - [Getting Started with the Web: Installing Basic Software (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-    - [Getting Started with the Web: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-    - [Getting Started with the Web: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+    -   [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
+    -   [Getting Started with the Web: Installing Basic Software (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+    -   [Getting Started with the Web: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+    -   [Getting Started with the Web: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 -   **[Exercise](exercises/markupExercise/basicMarkupExercise.md)**
-    - In today's exercise, you'll create a basic HTML page, with links and images.
+    -   In today's exercise, you'll create a basic HTML page, with links and images.
 
 ### Thursday (10/10)
 
 -   **Readings**
-    - [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    -   [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 -   **Exercise**
-    - You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
+    -   You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
 
 {% include top.html id="week8" content=page.week8 %}
 
@@ -205,13 +205,13 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 -   **Readings**
     -   [MDN: Introduction to CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
-    - [MDN: Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
-    - [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
--   **Exercise**
-    - Before class, upload at least one visual mockup of your site to your note-taking group's folder for peer review in class.
-    - These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
-    - All you need to provide is a screenshot or exported image.
-    - In class, we'll do critiques and then start on implementing the design using Flexbox.
+    -   [MDN: Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+    -   [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+-   **[Exercise](/exercises/designExercise/designExercise.md)**
+    -   Before class, upload at least one visual mockup of your site to your note-taking group's folder for peer review in class.
+    -   These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
+    -   All you need to provide is a screenshot or exported image.
+    -   In class, we'll do critiques and then start on implementing the design using Flexbox.
 
 {% include top.html id="week9" content=page.week9 %}
 
