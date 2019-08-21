@@ -8,14 +8,12 @@
 ## Instructor and Class Details
 
 -   Professor: Eric Baker
-
     -   Office: 2569 Golisano Hall
     -   Email: eabigm@rit.com
     -   Office hours:
         -   Mondays & Wednesdays 9:00am  -1a:00am
 
 -   Class Time/Location:
-
     -   Tuesdays & Thursdays, 2:00 - 3:15pm, 1370 Orange Hall
 
 ## Course Catalog Description
