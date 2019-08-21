@@ -10,13 +10,13 @@
   week6: "Week 6 (9/30): Critique"
   week7: "Week 7 (10/7): Understanding the Web"
   week8: "Week 8 (10/14): Web Layout"
-  week9: "Week 9 (10/21): UNIX, Git & GitHub"
+  week9: "Week 9 (10/21): Web Publishing & Version Control"
   week10: "Week 10 (10/28): Accessibility"
   week11: "Week 11 (11/4): Creating Digital Audio"
   week12: "Week 12 (11/11): Film Language"
   week13: "Week 13 (11/18): Creating Digital Video"
   week14: "Week 14 (11/25): Presentation Skills"
-  week15: "Week 15 (12/2): Responsible Social Media Use"
+  week15: "Week 15 (12/2): Social & Ethical Issues"
 ---
 
 # Schedule of Topics
@@ -42,7 +42,7 @@
 
 {% include top.html id="week1" content=page.week1 %}
 
-On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including Discord, and Google Docs.
+On Tuesday, we'll review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including Discord, and Google Docs.
 
 ### Tuesday (8/27)
 
@@ -93,7 +93,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 -   **Readings**
 
-    -   [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](http://guides.lib.jjay.cuny.edu/c.php?g=288333&p=1922550)
+    -   [Evaluating Information Sources](http://guides.lib.jjay.cuny.edu/c.php?g=288333&p=1922550)
     -   [Six Tips to Finding Research Sources That Set You Apart](https://www.studyright.net/blog/research-paper-sources/)
     -   [Researching the Interactive Media Industry](http://infoguides.rit.edu/c.php?g=332548&p=2258424)
 
@@ -117,7 +117,6 @@ As a creative professional, you need to be familiar with the laws governing the 
     -   [Video: A Fair(y) Use Tale](https://www.youtube.com/watch?v=CJn_jC4FNDo)
         -   (a captioned version can be found here: <https://video.rit.edu/Watch/s2YSe69J>)
     -   [Creative Commons: Licensing Considerations](https://creativecommons.org/share-your-work/licensing-considerations/)
-    -   [The Legal Side of Open Source](https://opensource.guide/legal/)
 
 ### Thursday (9/12)
 
@@ -137,8 +136,9 @@ When creating interactive media--whether it's a website, a game, or an applicati
 ### Tuesday (9/17)
 
 -   **Readings**
-    -   [10 design concepts that every web developer needs to know](http://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255)
-    -   [A Simple Web Developer's Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
+    -   [Pretty Pixels—The importance of visuals in game design](https://medium.com/the-cube/pretty-pixel-the-importance-of-visuals-in-game-design-5f3ae148a41e)
+    -   [The Designer's Guide to Grid Theory](https://www.creativebloq.com/web-design/grid-theory-41411345)
+    -   [Wikipedia: Visual Design Elements and Principles](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
 
 ### Thursday (9/19)
 
@@ -151,7 +151,7 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 {% include top.html id="week5" content=page.week5 %}
 
-This week we’ll talk about the underlying concepts critical to understanding digital images–including resolution, color models, compression, and file formats. I expect you to already have a basic understanding of Photoshop; if you don't, review [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html) before Thursday's class.
+This week we’ll talk about the underlying concepts critical to understanding digital images–including resolution, color models, compression, and file formats.
 
 ### Tuesday (9/24)
 
@@ -162,7 +162,9 @@ This week we’ll talk about the underlying concepts critical to understanding d
 
 ### Thursday (9/26)
 
--   **[Exercise](exercises/imageOptimizeExercise/color-optimizationExercise.md)**
+-   **Readings**
+    -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
+-   **[Exercise](exercises/imageOptimizeExercise/imgOptExercise)**
     -   This exercise will give you experience with different image formats and optimizing them for the web.
 
 {% include top.html id="week6" content=page.week6 %}
@@ -186,9 +188,6 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 -   **Readings**
     -   [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
-    -   [Getting Started with the Web: Installing Basic Software (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-    -   [Getting Started with the Web: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-    -   [Getting Started with the Web: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 -   **[Exercise](exercises/markupExercise/basicMarkupExercise.md)**
     -   In today's exercise, you'll create a basic HTML page, with links and images.
 
@@ -200,6 +199,8 @@ For the Getting Started with the Web articles in this week's readings, make sure
     -   You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
 
 {% include top.html id="week8" content=page.week8 %}
+
+We will not have class on Tuesday of this week, because it is a reading day. Make sure you do the readings and exercises before Thursday's class; I'll review the concepts on Thursday, but most of the class will be spent creating an initial layout for your web project.
 
 ### Thursday (10/17)
 
@@ -220,6 +221,8 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (10/22)
 
 -   **Readings**
+    - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+        - A bit out of date, but the concepts are sound.
 -   **Exercise**
 -   **Homework**
 
