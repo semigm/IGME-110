@@ -7,10 +7,10 @@
 
 ## Instructor and Class Details
 
-INSTRUCTOR
-Sten McKinzie
-Email: semigm@RIT.edu Office: GOL 2551
-Office Hours: MWF 11:00 - 12:30
+INSTRUCTOR  
+Sten McKinzie  
+Email: semigm@RIT.edu Office: GOL 2551  
+Office Hours: MWF 11:00 - 12:30  
 
 
 -   Class Time/Location:
