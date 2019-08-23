@@ -13,8 +13,6 @@ Email: semigm@RIT.edu Office: GOL 2551
 Office Hours: MWF 11:00 - 12:30  
 
 
--   Class Time/Location:
-    -   Tuesdays & Thursdays, 2:00 - 3:15pm, 1370 Orange Hall
 
 ## Course Catalog Description
 
