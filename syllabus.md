@@ -5,7 +5,7 @@
 
 # Course Syllabus
 
-### Section 04, Fall 2191
+### Section 06, Fall 2191
 
 **_Please read this document carefully and bookmark it for future reference. It provides the context and structure which will guide all aspects of this course._**
 
