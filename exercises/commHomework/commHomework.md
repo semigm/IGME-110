@@ -14,4 +14,4 @@ _**Important note:** If you already use Discord Skip to step 2_
 
 4.  Jump to #rules and read our Discord rules. After you have read them please add an OK reaction.
 
-5.  Post a brief message to the "introductions" channel in Discord so that we know your account is working. Please feel free to include what you are interested in, what you hope to get out this course, why your are taking IGM classes.
+5.  On Thursday 08/29 you will post a brief message to the "introductions" channel in Discord so that we know your account is working.  This channel will not be available until Thursday 08/29.
