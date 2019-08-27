@@ -3,18 +3,18 @@
   nav: schedule
 
   week1: "Week 1 (8/26): Course Overview & Communication Tools"
-  week2: "Week 2 (9/2): Research and Critical Assessment"
-  week3: "Week 3 (9/9): Legal Issues for Media Creators"
-  week4: "Week 4 (9/16): Visual Design & Typography"
-  week5: "Week 5 (9/23): Creating Digital Images"
+  week2: "Week 2 (9/2): Finding and Evaluating Information"
+  week3: "Week 3 (9/9): Intellectual Property"
+  week4: "Week 4 (9/16): Creating Digital Images"
+  week5: "Week 5 (9/23): Visual Design & Typography"
   week6: "Week 6 (9/30): Critique"
   week7: "Week 7 (10/7): Understanding the Web"
   week8: "Week 8 (10/14): Web Layout"
   week9: "Week 9 (10/21): Web Publishing & Version Control"
   week10: "Week 10 (10/28): Accessibility"
   week11: "Week 11 (11/4): Creating Digital Audio"
-  week12: "Week 12 (11/11): Film Language"
-  week13: "Week 13 (11/18): Creating Digital Video"
+  week12: "Week 12 (11/11): Creating Digital Video"
+  week13: "Week 13 (11/18): Film Language"
   week14: "Week 14 (11/25): Presentation Skills"
   week15: "Week 15 (12/2): Social & Ethical Issues"
 ---
@@ -74,13 +74,13 @@ On Tuesday, we'll review the syllabus, goals, and requirements for class, as wel
 
 {% include top.html id="week2" content=page.week2 %}
 
-This week we'll be talking about information--how to find it, and how to evaluate it.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we’ll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md).
+This week we'll be talking about information--how to find it, and how to evaluate its quality and reliability.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we’ll focus on research tools and methods, including library resources you can use for your [research paper assignment](projects/Paper.md).
 
 ### Tuesday (9/3)
 
 -   **Readings**
 
-    -   [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
+    -   [4 Tips for Spotting a Fake News Story](https://www.summer.harvard.edu/inside-summer/4-tips-spotting-fake-news-story)
     -   [The Grim Conclusions of the Largest-Ever Study of Fake News](https://www.theatlantic.com/technology/archive/2018/03/largest-study-ever-fake-news-mit-twitter/555104/)
     -   [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean)
         -   (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
@@ -107,7 +107,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 {% include top.html id="week3" content=page.week3 %}
 
-As a creative professional, you need to be familiar with the laws governing the use of creative works–that includes not just copyright, but also trademark and patent laws.
+As a creative professional, you need to be familiar with the laws governing the use of creative works--that includes not just copyright, but also trademark and patent laws.
 
 ### Tuesday (9/10)
 
@@ -131,6 +131,24 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 {% include top.html id="week4" content=page.week4 %}
 
+This week we’ll talk about the underlying concepts critical to understanding digital images–including resolution, color models, compression, and file formats.
+
+### Tuesday (9/24)
+
+-   **Readings**
+    -   [Adobe.com: Image Size and Resolution](https://helpx.adobe.com/photoshop/using/image-size-resolution.html)
+    -   [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
+    -   [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
+
+### Thursday (9/26)
+
+-   **Readings**
+    -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
+-   **[Exercise](exercises/imageOptimizeExercise/imgOptExercise)**
+    -   This exercise will give you experience with different image formats and optimizing them for the web.
+
+{% include top.html id="week5" content=page.week5 %}
+
 When creating interactive media--whether it's a website, a game, or an application--it turns out that looks do matter! On Tuesday, we’ll talk about visual design concepts, and on Thursday we'll focus on digital typography.
 
 ### Tuesday (9/17)
@@ -148,24 +166,6 @@ When creating interactive media--whether it's a website, a game, or an applicati
     -   [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
     -   [Comic Sans Criminal](http://www.comicsanscriminal.com/)
     -   [Papyrus Skit from SNL](https://www.youtube.com/watch?v=jVhlJNJopOQ)
-
-{% include top.html id="week5" content=page.week5 %}
-
-This week we’ll talk about the underlying concepts critical to understanding digital images–including resolution, color models, compression, and file formats.
-
-### Tuesday (9/24)
-
--   **Readings**
-    -   [Adobe.com: Image Size and Resolution](https://helpx.adobe.com/photoshop/using/image-size-resolution.html)
-    -   [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
-    -   [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
-
-### Thursday (9/26)
-
--   **Readings**
-    -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
--   **[Exercise](exercises/imageOptimizeExercise/imgOptExercise)**
-    -   This exercise will give you experience with different image formats and optimizing them for the web.
 
 {% include top.html id="week6" content=page.week6 %}
 
@@ -221,8 +221,8 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (10/22)
 
 -   **Readings**
-    - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
-        - A bit out of date, but the concepts are sound.
+    -   [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+        -   A bit out of date, but the concepts are sound.
 -   **Exercise**
 -   **Homework**
 
@@ -275,8 +275,9 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Thursday (11/14)
 
 -   **Readings**
--   **Exercise**
--   **Homework**
+    -   [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
+-   **[Exercise](exercises/videoExercise/videoExercise.md)**
+    -   In this exercise, you will be creating a trailer for some form of media.
 
 {% include top.html id="week13" content=page.week13 %}
 
@@ -289,9 +290,8 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Thursday (11/21)
 
 -   **Readings**
-    -   [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
--   **[Exercise](exercises/videoExercise/videoExercise.md)**
-    -   In this exercise, you will be creating a trailer for some form of media.
+-   **Exercise**
+-   **Homework**
 
 {% include top.html id="week14" content=page.week14 %}
 
