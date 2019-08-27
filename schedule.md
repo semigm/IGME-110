@@ -122,7 +122,7 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 -   **In-Class Exercises**
     -   You will work as a group to gether assets for a prototype of a game idea I've come up with.
--   **[Homework](projects/Paper.md)**
+-   **[Homework](exercises/paperReview/paperReview)**
     -   You will review each other's paper first draft.
     -   You must have at least the outline for your paper uploaded to the shared Google Drive folder.
     -   The more you have the more feedback you can get so if you have a list of references you have found or even some of it written you will get more of the class.
