@@ -22,7 +22,7 @@ Here are some resources that may be helpful as you work on your paper:
 
 ## Deliverables
 
-### Topic Idea: Due by 11:59pm on Monday, 09/02/2019 23rd
+### Topic Idea: Due by 11:59pm on Monday, 09/02/2019
 A very basic statement of your topic and a brief description or outline of your approach to the paper need to be turned on myCourses. This is not a graded assignment, but if you do not turn it in, you'll lose 15% off your final paper grade. 
 
 ### First Draft: Uploaded to Google Drive by TBD
