@@ -59,7 +59,6 @@ On Tuesday, we'll review the syllabus, goals, and requirements for class, as wel
 
 -   **Readings**
 
-    -   [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
     -   [Discord - Getting Started](https://support.discordapp.com/hc/en-us/articles/219470277-Getting-Started)
     -   [Use Google Docs to Collaborate on CLass Note Taking](https://www.huffingtonpost.com/hack-college/use-google-docs-to-collab_b_844192.html)
 
