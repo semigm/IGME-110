@@ -133,14 +133,14 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 This week we’ll talk about the underlying concepts critical to understanding digital images–including resolution, color models, compression, and file formats.
 
-### Tuesday (9/24)
+### Tuesday (9/17)
 
 -   **Readings**
     -   [Adobe.com: Image Size and Resolution](https://helpx.adobe.com/photoshop/using/image-size-resolution.html)
     -   [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
     -   [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
 
-### Thursday (9/26)
+### Thursday (9/19)
 
 -   **Readings**
     -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
@@ -151,14 +151,14 @@ This week we’ll talk about the underlying concepts critical to understanding d
 
 When creating interactive media--whether it's a website, a game, or an application--it turns out that looks do matter! On Tuesday, we’ll talk about visual design concepts, and on Thursday we'll focus on digital typography.
 
-### Tuesday (9/17)
+### Tuesday (9/24)
 
 -   **Readings**
     -   [Pretty Pixels—The importance of visuals in game design](https://medium.com/the-cube/pretty-pixel-the-importance-of-visuals-in-game-design-5f3ae148a41e)
     -   [The Designer's Guide to Grid Theory](https://www.creativebloq.com/web-design/grid-theory-41411345)
     -   [Wikipedia: Visual Design Elements and Principles](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
 
-### Thursday (9/19)
+### Thursday (9/26)
 
 -   **Readings**
     -   [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
