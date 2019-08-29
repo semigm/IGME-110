@@ -19,10 +19,13 @@ You must, however, support your opinions and assertions with citations to valid 
 Here are some resources that may be helpful as you work on your paper:
 
 -   [Hamilton College: Persuasive Essays](https://www.hamilton.edu/academics/centers/writing/writing-resources/persuasive-essays)
+-   [Lynda.com: Writing a Research Paper](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu)
 -   [Purdue Online Writing Lab: Argumentative Essays](https://owl.english.purdue.edu/owl/resource/685/05/)
 -   [Purdue Online Writing Lab: Annotated Bilbiographies](https://owl.english.purdue.edu/owl/resource/614/01/)
 
 ## Deliverables
+
+There are several separate deliverables for this paper, because I want to make sure you don't wait to start it until the night before it's due!
 
 ### Topic Idea: Due by {{ site.classStartTime }} on Tuesday, September 3rd
 
@@ -30,18 +33,20 @@ A very basic statement of your topic and a brief description or outline of your 
 
 ### First Draft: Uploaded to Google Drive by {{ site.classStartTime }} on Thursday, September 12st
 
-By the date listed above, put a copy of your first draft in your group's Google Docs folder. Also upload it to the dropbox on MyCourses in the assignments section. At a _minimum_, the draft should include an introductory paragraph and a full outline of your intended content. That being said, the more you include the more useful the feedback you get will be. You must review and comment on all of your group members' drafts before Friday afternoon. This is a good way to see examples of other students' approaches to the assignment, as well as to get peer feedback before turning in your final paper. Again, while the assignment will not be graded, if you don't upload a draft **and** participate in the peer review you'll lose **15% of your final paper grade**.
+Your first draft of the paper should have **at least eight sources referenced, and have at least 900 words of text**. (The more finished the paper is, the more useful the feedback you receive will be). You'll be peer reviewing each others' first drafts in class on Thursday. This is a good way to see examples of other students’ approaches to the assignment, as well as to get peer feedback before turning in your final paper. While this assignment will not be graded, if you don’t upload an acceptable draft and participate in the peer review process, you’ll **lose 10% of your final paper grade** (5% for the draft, 5% for the peer reviews).
 
 ### Final Paper: Due before 11:30pm on Sunday, September 22th
 
 The final version of your paper is due by 11:59pm on the date above. Upload an electronic copy of the paper in the myCourses dropbox. It must be in Word (.doc, .docx), rich text format (.rtf), PDF (.pdf), or Open Office (.odf). Please do not submit it in Apple Pages or any other non-standard format, and do not simply submit a link to a Google Doc. Most word processing programs (including Google Docs and Apple Pages) will allow you to save a file in PDF or RTF format.
 
+## Content & Formatting Requirements
+
 Here are the content and formatting requirements for the paper:
 
--   The minimum length for the body of the paper (not including the title page, abstract, or bibliographic references) is 1200 words. There is not a maximum length cutoff, but I would prefer that the paper not exceed 2,500 words.
--   You must use a style manual to format your paper, footnotes/endnotes, and bibliography. You can use whichever standard style you'd like--APA, MLA, Chicago, Turabian, etc. For more information on style manuals and citing sources, consult the RIT Library style guide references at <http://infoguides.rit.edu/citationguide>, come to my office hours, or talk to a librarian at the Wallace Library.
--   Include a bibliography of all articles, books, and online resources you use to research your topic. This bibliography should include any reference that you cite in your paper. Use your chosen style manual's format for your bibliographic references.
--   You must include at least eight references in your bibliography, and a minimum of four of those references should be to high-quality edited sources--books, magazine or journal articles, or newspaper articles, all properly cited. The other four sources can be (but do not have to be) more informal web-based sources. You _may not_ count reference books or websites such as encyclopedias or dictionaries (tertiary sources) towards your eight references.
+-   The minimum length for the body of the paper (not including the title page, abstract, or bibliographic references) is 1200 words. There is not a maximum length cutoff, but I would prefer that the paper not exceed 3,00 words.
+-   You must use a style manual to format your paper, footnotes/endnotes, and bibliography. You can use whichever standard style you’d like--APA, MLA, Chicago, Turabian, etc. For more information on style manuals and citing sources, consult the [RIT Library style guide references](http://infoguides.rit.edu/citationguide), come to my office hours, or talk to a librarian at the Wallace Library.
+-   Include a bibliography of all articles, books, and online resources you use to research your topic. This bibliography should include any reference that you cite in your paper. Use your chosen style manual’s format for your bibliographic references.
+-   You must include at least eight references in your bibliography, and a minimum of four of those references should be to high-quality edited sources–books, magazine or journal articles, or newspaper articles, all properly cited. The other four sources can be (but do not have to be) more informal web-based sources. You may not count reference books or websites such as encyclopedias or dictionaries (tertiary sources) towards your eight references.
 -   All bibliography entries should include a brief annotation describing the nature of the work and how it was relevant to your paper.
 -   Proofread and edit your writing. Spelling and grammatical errors will count against your grade.
 
