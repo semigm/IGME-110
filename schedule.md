@@ -87,7 +87,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 -   **[Exercise](exercises/infoEvalExercise/infoEvalExercise.md)**
 
-    -   In class, you'll complete an online exercise and then we'll discuss it as a group.
+    -   Play an web game to test how well you can determine real from fake articles.
 
 ### Thursday (9/5)
 
