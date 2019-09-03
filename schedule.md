@@ -85,8 +85,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
         -   (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
     -   We will watch "The Great Hack", a documentary about fake news.
-    -   In class, you'll complete an online exercise.
-
+   
 ### Thursday (9/5)
 
 -   **Readings**
@@ -95,11 +94,16 @@ This week we'll be talking about information--how to find it, and how to evaluat
     -   [Six Tips to Finding Research Sources That Set You Apart](https://www.studyright.net/blog/research-paper-sources/)
     -   [Researching the Interactive Media Industry](http://infoguides.rit.edu/c.php?g=332548&p=2258424)
 
+ -   In class, you'll complete two online exercise.
+ 
 -   **[Exercise](https://baker-igm.github.io/IGME-110/exercises/infoEvalExercise/infoEvalExercise.html)**
+
+    -   This exercise will see how good you are at determining if a news article is real or fake.
+
 -   **[Exercise](exercises/biblioExercise/bibExercise.md)**
 
     -   In this exercise, you will use the NoodleTools resource provided by the RIT Library to create an annotated bibliography, using a topic from the list provided.
-
+    
 -   **[Homework](projects/Paper.md)**
     -   Write the first draft of your paper.
     -   **Due by Next Thursday's class**
