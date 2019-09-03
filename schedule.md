@@ -96,11 +96,11 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
  -   In class, you'll complete two online exercise.
  
--   **[Exercise](https://baker-igm.github.io/IGME-110/exercises/infoEvalExercise/infoEvalExercise.html)**
+-   **[In-Class Exercise #1](https://baker-igm.github.io/IGME-110/exercises/infoEvalExercise/infoEvalExercise.html)**
 
     -   This exercise will see how good you are at determining if a news article is real or fake.
 
--   **[Exercise](exercises/biblioExercise/bibExercise.md)**
+-   **[In-Class Exercise #2](exercises/biblioExercise/bibExercise.md)**
 
     -   In this exercise, you will use the NoodleTools resource provided by the RIT Library to create an annotated bibliography, using a topic from the list provided.
     
