@@ -119,6 +119,7 @@ As a creative professional, you need to be familiar with the laws governing the 
     -   [Creative Commons: Licensing Considerations](https://creativecommons.org/share-your-work/licensing-considerations/)
 -   **[Homework](exercises/assetSearchHomework/assetSearchHomework)**
     -   You will work as a group to gether assets for a prototype of a game idea I've come up with.
+    - **Due by class on 9/17**
 
 ### Thursday (9/12)
 
