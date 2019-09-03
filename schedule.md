@@ -117,17 +117,17 @@ As a creative professional, you need to be familiar with the laws governing the 
     -   [Video: A Fair(y) Use Tale](https://www.youtube.com/watch?v=CJn_jC4FNDo)
         -   (a captioned version can be found here: <https://video.rit.edu/Watch/s2YSe69J>)
     -   [Creative Commons: Licensing Considerations](https://creativecommons.org/share-your-work/licensing-considerations/)
+-   **[Homework](exercises/assetSearchHomework/assetSearchHomework)**
+    -   You will work as a group to gether assets for a prototype of a game idea I've come up with.
 
 ### Thursday (9/12)
 
--   **In-Class Exercises**
-    -   You will work as a group to gether assets for a prototype of a game idea I've come up with.
--   **[Homework](exercises/paperReview/paperReview)**
+-   **[Exercise](exercises/paperReview/paperReview)**
     -   You will review each other's paper first draft.
     -   You must have at least the outline for your paper uploaded to the shared Google Drive folder.
     -   The more you have the more feedback you can get so if you have a list of references you have found or even some of it written you will get more of the class.
     -   You will be graded on that wether or not you uploaded your outline and that you reviewed at least two other papers.
-    -   **Due by Next Tuesday's class**
+    -   **Due by 11:30pm Tonight**
 
 {% include top.html id="week4" content=page.week4 %}
 
