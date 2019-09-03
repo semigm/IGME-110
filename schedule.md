@@ -79,13 +79,12 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 -   **Readings**
 
-    -   [4 Tips for Spotting a Fake News Story)](https://www.summer.harvard.edu/inside-summer/4-tips-spotting-fake-news-story)
+    -   [4 Tips for Spotting a Fake News Story](https://www.summer.harvard.edu/inside-summer/4-tips-spotting-fake-news-story)
     -   [The Grim Conclusions of the Largest-Ever Study of Fake News](https://www.theatlantic.com/technology/archive/2018/03/largest-study-ever-fake-news-mit-twitter/555104/)
     -   [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean)
         -   (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
--   **[Exercise](https://baker-igm.github.io/IGME-110/exercises/infoEvalExercise/infoEvalExercise.html)**
-
+    -   We will watch "The Great Hack", a documentary about fake news.
     -   In class, you'll complete an online exercise.
 
 ### Thursday (9/5)
@@ -96,6 +95,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
     -   [Six Tips to Finding Research Sources That Set You Apart](https://www.studyright.net/blog/research-paper-sources/)
     -   [Researching the Interactive Media Industry](http://infoguides.rit.edu/c.php?g=332548&p=2258424)
 
+-   **[Exercise](https://baker-igm.github.io/IGME-110/exercises/infoEvalExercise/infoEvalExercise.html)**
 -   **[Exercise](exercises/biblioExercise/bibExercise.md)**
 
     -   In this exercise, you will use the NoodleTools resource provided by the RIT Library to create an annotated bibliography, using a topic from the list provided.
