@@ -79,14 +79,14 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 -   **Readings**
 
-    -   [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
+    -   [4 Tips for Spotting a Fake News Story)](https://www.summer.harvard.edu/inside-summer/4-tips-spotting-fake-news-story)
     -   [The Grim Conclusions of the Largest-Ever Study of Fake News](https://www.theatlantic.com/technology/archive/2018/03/largest-study-ever-fake-news-mit-twitter/555104/)
     -   [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean)
         -   (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
--   **[Exercise](exercises/infoEvalExercise/infoEvalExercise.md)**
+-   **[Exercise](https://baker-igm.github.io/IGME-110/exercises/infoEvalExercise/infoEvalExercise.html)**
 
-    -   In class, you'll complete an online exercise and then we'll discuss it as a group.
+    -   In class, you'll complete an online exercise.
 
 ### Thursday (9/5)
 
