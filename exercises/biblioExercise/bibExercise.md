@@ -1,4 +1,4 @@
-# Bibliography Exercise (Week 2, Thursday 9/6)
+# Bibliography Exercise (Due Monday 09/09 11:59pm)
 
 In today's exercise, you will use the NoodleTools resource provided by the RIT Library to create an annotated bibliography, using a topic from the list provided below. You will start this exercise in class, but will have until 8am on Monday, 9/9, to complete it.
 
