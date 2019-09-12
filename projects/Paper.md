@@ -31,7 +31,7 @@ A very basic statement of your topic and a brief description or outline of your 
 ### First Draft: Uploaded to Google Drive and MyCourses by 11:59pm on Wednesday, 09/11/2019
 At a *minimum*, the draft should include an introductory paragraph, and a full outline of your intended content. The more you include, however, the more useful the feedback you get will be. Upload the draft to both MyCourse Project01b "Research Paper First Draft" and Google Drive before Thursday the 12th. Note-taking groups must review and comment on all of your group members' drafts before Friday afternoon. This is a good way to see examples of other students' approaches to the assignment, as well as to get peer feedback before turning in your final paper. Again, while the assignment will not be graded, if you don't upload a draft **and** participate in the peer review you'll lose 15% of your final paper grade.
 
-### Final Paper: Due before midnight on Sunday, TBD
+### Final Paper: Due before 11:59pm on Sunday, 09/22/2019
 Upload an electronic copy of the paper in the myCourses  dropbox. It must be in Word (.doc, .docx), rich text format (.rtf), PDF (.pdf), or Open Office (.odf). Please do not submit it in Apple Pages or any other non-standard format, and do not simply submit a link to a Google Doc. Most word processing programs (including Google Docs and Apple Pages) will allow you to save a file in PDF or RTF format.  
 
 ## Content & Formatting Requirements
