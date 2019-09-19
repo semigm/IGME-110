@@ -148,8 +148,6 @@ This week we’ll talk about the underlying concepts critical to understanding d
 
 -   **Readings**
     -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
--   **[Exercise](exercises/imageOptimizeExercise/imgOptExercise)**
-    -   This exercise will give you experience with different image formats and optimizing them for the web.
 
 {% include top.html id="week5" content=page.week5 %}
 
