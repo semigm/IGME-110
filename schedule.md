@@ -169,7 +169,7 @@ When creating interactive media--whether it's a website, a game, or an applicati
     -   [Comic Sans Criminal](http://www.comicsanscriminal.com/)
     -   [Papyrus Skit from SNL](https://www.youtube.com/watch?v=jVhlJNJopOQ)
     
-    -   **[In Class Exercise](exercises/moodboardexercise/moodboard.md)**
+    -   **[In Class Exercise: Mood Board](exercises/moodboardexercise/moodboard.md)**
 
 {% include top.html id="week6" content=page.week6 %}
 
