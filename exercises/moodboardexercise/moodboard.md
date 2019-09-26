@@ -4,11 +4,13 @@ This exercise will give you a chance to have some fun while increasing your pers
 
 ## Mood Board
 
-Decide on a favorite piece of visual media.  This can be a game, show or movie.  Find 15 reference images, on the web, that speaak to the topic without showing any part of the topic. Using what you have learned of Adobe Photoshop, composite these 15 images into a mood board. Mood boards are an arrangement of images, materials, pieces of text, etc., a collage, intended to evoke or project a particular style or concept. The mood board will be created in Adobe Photoshop, using layers and must fit within 3000 x 2500 pixels.
+A mood board is a collage of images and text that create describe a topic without actually showing any part of the topic. Images can convey color, mood, texture or some other aspect of the topic but cannot show the topic itself.  Similarly, text can be key words that also speak to the topic without identifying it.
+
+Decide on a favorite piece of visual media.  This can be a game, show or movie.  Find a minimum of 10 images, on the web, that speaak to the topic without showing any part of the topic. Using what you have learned of Adobe Photoshop, composite these 10 images with the text (not required) into a mood board. Overlap the images, put images to gether to convey a concept, use size to highlight importeance. The mood board will be created in Adobe Photoshop, using layers and must fit within 3000 x 2500 pixels.
 
 ## Deliverable 
 
-In order for us to evaluate your work, we need to be able to see the original Photoshop PSD file containing all the layers that you created (do not flatten it). Additionally, you should submit a JPEG version of the mood board that is suitable for web viewing (about 5-6 inches wide with a resolution of about 96 pp). 
+In order for us to evaluate your work, we need to be able to see the original Photoshop PSD file containing all the layers that you created (do not flatten it). Additionally, you should submit a JPEG version of the mood board. 
 
 The PSD and JPEG files should be uploaded to the Exercise: Mood Board dropbox in myCourses.
 
