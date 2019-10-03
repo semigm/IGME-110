@@ -27,5 +27,5 @@ For each site, the person who chose it should summarize the group's comments in 
 
 As a group, come to a consensus on which you feel is the best site in each category, and the worst. Make sure you clearly note that choice in your document. 
 
-The document should be completed by midnight tonight; it will be graded on Friday morning. 
+The document should be completed by 11:59pm Sunday (10/06). 
 
