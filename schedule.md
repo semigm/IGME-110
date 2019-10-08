@@ -194,6 +194,11 @@ For the Getting Started with the Web articles in this week's readings, make sure
     -   [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
 -   **[Exercise](exercises/markupExercise/basicMarkupExercise.md)**
     -   In today's exercise, you'll create a basic HTML page, with links and images.
+    
+    
+### [Web Site (20% of final grade)](projects/Website.md)
+
+To demonstrate your understand of basic web development, you will create a website that provides access to information related to your paper topic.
 
 ### Thursday (10/10)
 
