@@ -195,10 +195,9 @@ For the Getting Started with the Web articles in this week's readings, make sure
 -   **[Exercise](exercises/markupExercise/basicMarkupExercise.md)**
     -   In today's exercise, you'll create a basic HTML page, with links and images.
     
-    
-### [Web Site (20% of final grade)](projects/Website.md)
-
-To demonstrate your understand of basic web development, you will create a website that provides access to information related to your paper topic.
+-   **Project**  
+    -   [Web Site (20% of final grade)](projects/Website.md)
+    -   To demonstrate your understand of basic web development, you will create a website that provides access to information related  to your paper topic.
 
 ### Thursday (10/10)
 
