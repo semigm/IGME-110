@@ -19,4 +19,4 @@ At a minimum, do the following using CSS rules:
  
 ## Deliverables
 
-Put the two HTML pages, the CSS file, and your image files into a folder. Zip the folder, and upload it to the myCourses Assignments dropbox no later than noon on Saturday. 
+Put the two HTML pages, the CSS file, and your image files into a folder. Zip the folder, and upload it to the myCourses "Exercise: CSS_HTML Pages" dropbox no later than noon on Saturday. 
