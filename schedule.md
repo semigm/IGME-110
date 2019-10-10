@@ -203,8 +203,8 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 -   **Readings**
     -   [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
--   **Exercise**
-    -   You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
+-   **[Exercise](https://github.com/semigm/IGME-110/blob/master/exercises/cssExercise/cssExercise.md)**
+    -   You'll use CSS (Cascading Style Sheets) to format a page about yourself.
 
 {% include top.html id="week8" content=page.week8 %}
 
