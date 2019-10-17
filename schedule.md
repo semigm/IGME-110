@@ -219,9 +219,9 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
 -   **[Exercise](/exercises/designExercise/designExercise.md)**
     -   During class, complete and upload at least one visual mockup of your site to your note-taking group's folder for peer review.
     -   These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
-    -   All you need to provide is a screenshot or exported image.
+    -   All you need to upload is a screenshot or exported image.
+    -   Work together with your note taking group to provide feedback on eachothers mockups.
     -   Have your mockup ready for critique on Tuesday.
-    -   Over the weekend review all of the mockups submitted by your group.
 
 {% include top.html id="week9" content=page.week9 %}
 
