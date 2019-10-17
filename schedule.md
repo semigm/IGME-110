@@ -217,10 +217,11 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
     -   [MDN: Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
     -   [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 -   **[Exercise](/exercises/designExercise/designExercise.md)**
-    -   Before class, upload at least one visual mockup of your site to your note-taking group's folder for peer review in class.
+    -   During class, complete and upload at least one visual mockup of your site to your note-taking group's folder for peer review.
     -   These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
     -   All you need to provide is a screenshot or exported image.
-    -   In class, we'll do critiques and then start on implementing the design using Flexbox.
+    -   Have your mockup ready for critique on Tuesday.
+    -   Over the weekend review all of the mockups submitted by your group.
 
 {% include top.html id="week9" content=page.week9 %}
 
