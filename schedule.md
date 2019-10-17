@@ -221,7 +221,7 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
     -   These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
     -   All you need to upload is a screenshot or exported image.
     -   Work together with your note taking group to provide feedback on eachothers mockups.
-    -   Have your mockup ready for critique on Tuesday.
+    -   Upload your mockup to MyCourses "Exercise: Website Mockup" folder for critique on Tuesday.
 
 {% include top.html id="week9" content=page.week9 %}
 
