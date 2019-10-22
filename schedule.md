@@ -233,6 +233,10 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
         -   A bit out of date, but the concepts are sound.
 -   **Exercise**
+    -   Today you will be critique your website mock-ups with in your note taking groups
+    -   Each student will do A quick, informal presentation of their mock-up, to their note taking group
+    -   Other members of the note taking group will then critique the mock -up and give feedback
+    -   Once all of the critiques are finished you can spend the rest of class working on your website
 -   **Homework**
 
 ### Thursday (10/24)
