@@ -254,7 +254,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
     -   [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
     -   [RIT Web Developer’s Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
--   **[Exercise](https://github.com/semigm/IGME-110/blob/master/exercises/ftpExercise/basicMarkupExercise.md)****
+-   **[Exercise](https://github.com/semigm/IGME-110/blob/master/exercises/ftpExercise/basicMarkupExercise.md)**
 -   **Homework**
 
 ### Thursday (10/31)
