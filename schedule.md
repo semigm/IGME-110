@@ -250,16 +250,20 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (10/29)
 
 -   **Readings**
-    -   [What Is Accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
-    -   [Why and How (From the Game Accessibility Guidelines site, but relevant to all kinds of interactive media applications.)](http://gameaccessibilityguidelines.com/why-and-how/)
-    -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
-    -   [Accessibility - The Curb Cut Effect - Extra Credits](https://www.youtube.com/watch?v=PJoax1Z1x4Y&feature=youtu.be)
+    -   [Getting Started with the Web: Publishing Your Website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+    -   [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
+    -   [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
+    -   [RIT Web Developer’s Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
 -   **Exercise**
 -   **Homework**
 
 ### Thursday (10/31)
 
 -   **Readings**
+    -   [What Is Accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+    -   [Why and How (From the Game Accessibility Guidelines site, but relevant to all kinds of interactive media applications.)](http://gameaccessibilityguidelines.com/why-and-how/)
+    -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
+    -   [Accessibility - The Curb Cut Effect - Extra Credits](https://www.youtube.com/watch?v=PJoax1Z1x4Y&feature=youtu.be)
 -   **Exercise**
 -   **Homework**
 
