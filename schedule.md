@@ -259,9 +259,6 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Thursday (10/31)
 
 -   **Readings**
-    -   [What Is Accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
-    -   [Why and How (From the Game Accessibility Guidelines site, but relevant to all kinds of interactive media applications.)](http://gameaccessibilityguidelines.com/why-and-how/)
-    -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
 -   **Exercise**
 -   **Homework**
 
