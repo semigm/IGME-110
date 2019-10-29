@@ -2,7 +2,7 @@
 
 In this assignment, you will create a website in which you provide information from or related to the topic of your paper. It should not simply be a reworking of your paper, but rather a web-friendly introduction to the topic covered in your paper.  
 
-The site must be uploaded to banjo.rit.edu by midnight on Sunday, October 28th.
+The site must be uploaded to banjo.rit.edu by midnight on Sunday, November 3rd.
 
 ## Requirements
   - The main page must be located at `http://people.rit.edu/youruserid/igme110/project/` (replace 'youruserid' with YOUR user ID!)
