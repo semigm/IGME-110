@@ -265,7 +265,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
     -   [Accessibility - The Curb Cut Effect - Extra Credits](https://www.youtube.com/watch?v=PJoax1Z1x4Y&feature=youtu.be)
 -   **Exercise**
--   **Homework**
+    -   [Accessibility Exercise](https://github.com/semigm/IGME-110/blob/master/exercises/accessibilityExercise/accessibilityExercise.md)
 
 {% include top.html id="week11" content=page.week11 %}
 
