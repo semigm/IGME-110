@@ -279,8 +279,9 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Thursday (11/7)
 
 -   **Exercise**
-    -   [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
+    -   [Lynda.com (LinkedIn Learning): Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
     -   [Audacity Software Download](http://www.audacityteam.org/download/)
+    -   [Accessing LinkedIn Learning at RIT](https://infoguides.rit.edu/linkedinlearning)
 
 {% include top.html id="week12" content=page.week12 %}
 
