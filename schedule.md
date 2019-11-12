@@ -290,15 +290,18 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 -   **Readings**
     -   [Early history of Editing techniques](https://seanmaguireblog.wordpress.com/2012/05/14/early-history-of-editing-techniques/)
     -   [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://www.youtube.com/watch?v=f78muH3MG7M&feature=youtu.be)
-    -   [Mastering Composition + Cinematography with Will Smith](https://www.youtube.com/watch?v=cIvGRytmRaw&feature=youtu.be)
+
 -   **Homework**
     -   [Video Editing for Absolute Beginners](https://www.youtube.com/watch?v=_Ek7Tyt17Yg&feature=youtu.be)
+    
 ### Thursday (11/14)
 
 -   **Readings**
     -   [Shotcut Tutorials](https://shotcut.org/tutorials/)
     -   [A Beginner’s Guide to Film Editing Vocabulary](https://www.nyfa.edu/student-resources/a-beginners-guide-to-film-editing-vocabulary/) 
     -   [13 Creative Editing Techniques Every Video Editor Should Know](https://blog.pond5.com/11099-13-creative-editing-techniques-every-video-editor-should-know/) 
+
+    
 -   **[Exercise]**
     -   [Shotcut Download](https://shotcut.org/download/)
     -   TBD
@@ -309,6 +312,8 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 -   **Readings**
     -   [Film Terms Glossary](https://www.filmsite.org/filmterms12.html)  
+    -   [Mastering Composition + Cinematography with Will Smith](https://www.youtube.com/watch?v=cIvGRytmRaw&feature=youtu.be)
+    -   [8 Essential Cuts Every Editor Should Know](https://www.premiumbeat.com/blog/8-essential-cuts-every-editor-should-know/) 
 -   **Exercise**
 -   **Homework**
 
