@@ -302,9 +302,9 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [13 Creative Editing Techniques Every Video Editor Should Know](https://blog.pond5.com/11099-13-creative-editing-techniques-every-video-editor-should-know/) 
 
     
--   **[Exercise](https://github.com/semigm/IGME-110/blob/master/exercises/videoExercise/videoExercise.md)**
+-   **[Exercise: Video Editing with Shotcut](https://github.com/semigm/IGME-110/blob/master/exercises/videoExercise/videoExercise.md)**
     -   [Shotcut Download](https://shotcut.org/download/)
-    -   TBD
+    -   Due before Monday 11/18/2019 11:59pm
 
 {% include top.html id="week13" content=page.week13 %}
 
