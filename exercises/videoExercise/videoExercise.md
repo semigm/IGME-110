@@ -1,12 +1,11 @@
 # Digital Video Editing Exercise
-Using our video editing software of choice, make a short video that combines various video clips into one coherent story. You will be responsible for finding or providing the videos that you will be editing for this exercise [Homework](https://www.pexels.com/videos/). You may use audio from the source video, replace the audio with other sound assets, or some combination of both.
+Using [Shotcut](https://shotcut.org/) video editing software (free & open source), edit a short video that combines various video clips into one coherent story. You will be responsible for finding or providing the videos that you will be editing for this exercise [pexels](https://www.pexels.com/videos/). You may use audio from the source video, replace the audio with other sound assets, or some combination of both.
 
 ## Requirements
 Your video must meet the following requirements:
 1. Video must be atleast 30 seconds long.
 1. Video must have at least 2 different video sources.
 1. Video must have at least 5 cuts
-
 
 ## Rendering your Video
 BEFORE RENDERING: Save your project, and ensure that it is properly saved. Sometimes rendering can cause the program to crash and you might lose some or all of your work.
@@ -17,10 +16,10 @@ Exporting should take a few seconds. If it takes more than a minute, something i
 
 
 ## Submitting Your Work
-You will need to upload a page to your GitHub repo at `igme110/video/index.html` that has the following things:
-1.  A rendered version of your trailer (see above for details on rendering in Premiere).
+You will need to upload your video to YouTube and then upload the following to the "Exercise: Video Exercise" drop box on MyCourses:
+1.  A text document with... 
+    a.  an explanation your intent / thought process in creating the video (3 sentences or less)
+    b.  the link to your video on YouTube
+    c.  links to all assets used in the video
 2.  A screenshot of your project timeline in Premiere, to show that you actually did your own edits.
-3.  A text document explaining your intent / thought process in creating the video (3 sentences or less).
-4. Links to all sources used in the video (anything you didn't make).
 
-You can find a sample template [here](index.html)
