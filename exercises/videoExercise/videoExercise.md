@@ -15,13 +15,6 @@ Once you have edited your video and saved your project, you will need to “rend
 
 Exporting should take a few seconds. If it takes more than a minute, something is probably wrong or your video is too long. Let me know if it seems like the program has frozen.
 
-## Rendering your Video
-BEFORE RENDERING: Save your project, and ensure that it is properly saved. Sometimes rendering can cause the program to crash and you might lose some or all of your work.
-
-Once you have edited your video and saved your project, you will need to "render" it out to a single file that you can share. To do this, go to File>Export>Media. In the Export Settings window, set the format to "H.264". Once that is set, select the "YouTube 720p HD" preset from the dropdown. After you have set both of those correctly, press the "Export" button.
-
-Exporting should take a few seconds. If it takes more than a minute, something is probably wrong or your video is too long. Let me know if it seems like the program has frozen.
-
 
 ## Submitting Your Work
 You will need to upload a page to your GitHub repo at `igme110/video/index.html` that has the following things:
