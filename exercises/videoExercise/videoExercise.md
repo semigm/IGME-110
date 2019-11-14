@@ -18,8 +18,8 @@ Exporting should take a few seconds. If it takes more than a minute, something i
 ## Submitting Your Work
 You will need to upload your video to YouTube and then upload the following to the "Exercise: Video Exercise" drop box on MyCourses:
 1.  A text document with... 
-    a.  an explanation your intent / thought process in creating the video (3 sentences or less)
-    b.  the link to your video on YouTube
-    c.  links to all assets used in the video
+    1.  an explanation your intent / thought process in creating the video (3 sentences or less).
+    2.  the link to your video on YouTube.
+    3.  links to all assets used in the video.
 2.  A screenshot of your project timeline in Premiere, to show that you actually did your own edits.
 
