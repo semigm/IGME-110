@@ -1,5 +1,5 @@
 # Digital Video Editing Exercise
-Using [Shotcut](https://shotcut.org/) video editing software (free & open source), edit a short video that combines various video clips into one coherent story. You will be responsible for finding or providing the videos that you will be editing for this exercise [pexels](https://www.pexels.com/videos/). You may use audio from the source video, replace the audio with other sound assets, or some combination of both.
+Using [Shotcut](https://shotcut.org/) video editing software (free & open source), edit a short video that combines various video clips into one coherent story. You will be responsible for finding or providing the videos that you will be editing for this exercise [Pexels](https://www.pexels.com/videos/). You may use audio from the source video, replace the audio with other sound assets, or some combination of both.
 
 ## Requirements
 Your video must meet the following requirements:
