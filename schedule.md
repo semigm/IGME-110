@@ -302,7 +302,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [13 Creative Editing Techniques Every Video Editor Should Know](https://blog.pond5.com/11099-13-creative-editing-techniques-every-video-editor-should-know/) 
 
     
--   **[Exercise](https://shotcut.org/download/)**
+-   **[Exercise](IGME-110/exercises/videoExercise/videoExercise.md)**
     -   [Shotcut Download](https://shotcut.org/download/)
     -   TBD
 
