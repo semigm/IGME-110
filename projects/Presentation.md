@@ -14,17 +14,16 @@ I have provided [a PowerPoint template for your presentation](https://baker-igm.
 Your slides should focus on images and storytelling, not blocks of text or bullet points. Provide a title and show an image (or animation, or video clip) relevant for the concept you can include text, but it should be minimal—any explanatory text should go either in the notes for the slide, or in your narration.
 
 ## Submitting and Presenting Your Presentation
-Your presentation must be submitted to the dropbox in myCourses at least 24 hours before our final exam time.
+You will not be presenting in person, you must either (a) attach your narration to the slides in PowerPoint so that it plays while the slides auto-advance, or (b) create a video incorporating the slides and your narration (upload to YouTube). The auto-advance timings must work properly, and the sound must be clear and properly synchronized. (That’s harder than it sounds, and I strongly suggest asking someone else to test it for you on their computer so that you’re sure it will work on mine.)
 
-If you plan to present in person during finals week, only your slides need to be submitted. I will load the presentations on my computer, so that there is no setup delay between presenters.
+You must submit your presentation at least 24 hours before our final exam time. Upload, to the dropbox on MyCourses, either a PowerPoint presentation or a text file with the YouTube link for the video of your presentation. 
 
-If you will not be presenting in person, you must either (a) attach your narration to the slides in PowerPoint so that it plays while the slides auto-advance, or (b) create a video incorporating the slides and your narration. If you submit a narrated version, the auto-advance timings must still work properly, and the sound must be clear and properly synchronized. (That’s harder than it sounds, and I strongly suggest asking someone else to test it for you on their computer so that you’re sure it will work on mine.)
+We will watch all submitted presentations and videos during the finals period.  
 
 ## Grading Rubric
-
 Criteria | Points | Description
 ------------- | ------- | ---------- 
-Topics Covered | 10 | How many topics did you cover?
+Topics Covered | 10 | 10 things you learned this semester?
 Audio smooth & well-paced	| 2 | Is the audio understandable? Are there any obvious breaks in the audio?
 Good slide design	| 4 | Is there a clear visual hierarchy? Is the text minimal but understandable (not blocks of text or bullet points)?
 Consistent slide design	| 2 | Do all slides share the same visual style?
