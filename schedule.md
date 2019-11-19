@@ -328,8 +328,6 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 This week we’ll discuss the importance of good presentation skills, and look at examples of effective short-form presentations.
 
-If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own.
-
 ### Tuesday (11/26)
 
 -   **Readings**
