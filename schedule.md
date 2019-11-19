@@ -314,14 +314,15 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [Film Terms Glossary](https://www.filmsite.org/filmterms12.html)  
     -   [Mastering Composition + Cinematography with Will Smith](https://www.youtube.com/watch?v=cIvGRytmRaw&feature=youtu.be)
     -   [8 Essential Cuts Every Editor Should Know](https://www.premiumbeat.com/blog/8-essential-cuts-every-editor-should-know/) 
--   **Exercise**
--   **Homework**
+
+-   **Project**
+    -  ### [Final Presentation](/projects/Presentation.md)
 
 ### Thursday (11/21)
 
--   **Readings**
--   **Exercise**
--   **Homework**
+-   **Lab**
+    -   Work on Final Presentation
+
 
 {% include top.html id="week14" content=page.week14 %}
 
