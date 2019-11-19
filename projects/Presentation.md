@@ -22,26 +22,11 @@ If you will not be presenting in person, you must either (a) attach your narrati
 
 ## Grading Rubric
 
-Weekly Topics | 1 point | 0.5 points | 0 points 
-------------- | ------- | ---------- | ---------
-Week 1: Comm & Attn	| | |
-Week 2: Research	| | |
-Week 3: Legal	| | |
-Week 4: HTML/CSS	| | |
-Week 5: UNIX/FTP/Web Publishing	| | |
-Week 6: Typography & CSS	| | |
-Week 7: Graphic Design	| | |
-Week 8: CSS Box Model/Layout	| | |
-Week 9: Image Concepts	| | |
-Week 10: CSS Revisited	| | |
-Week 11: Animation	| | |
-Week 12: Audio	| | |
-Week 13: Presentations	| | |
-Week 14: Video	| | |
-Week 15: Social Media	| | |
-Audio smooth & well-paced	| | |
-Auto-advance works properly	| | |
-Good slide design	| | |
-Consistent slide design	| | |
-Coherent narrative	| | |
+Criteria | Points | Description
+------------- | ------- | ---------- 
+Topics Covered | 10 | How many topics did you cover?
+Audio smooth & well-paced	| 2 | Is the audio understandable? Are there any obvious breaks in the audio?
+Good slide design	| 4 | Is there a clear visual hierarchy? Is the text minimal but understandable (not blocks of text or bullet points)?
+Consistent slide design	| 2 | Do all slides share the same visual style?
+Coherent narrative	| 2 | Are the slides ordered in a way that makes sense?
 Total | __/20
