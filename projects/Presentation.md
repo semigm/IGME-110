@@ -13,12 +13,12 @@ I have provided [a PowerPoint template for your presentation](https://baker-igm.
 ## What Goes Into Your Slides?
 Your slides should focus on images and storytelling, not blocks of text or bullet points. Provide a title and show an image (or animation, or video clip) relevant for the concept you can include text, but it should be minimal—any explanatory text should go either in the notes for the slide, or in your narration.
 
-## Submitting and Presenting Your Presentation
+## Submitting and Presenting Your Presentation (Due 12/15/19 by 11:59pm)
 You will not be presenting in person, you must either (a) attach your narration to the slides in PowerPoint so that it plays while the slides auto-advance, or (b) create a video incorporating the slides and your narration (upload to YouTube). The auto-advance timings must work properly, and the sound must be clear and properly synchronized. (That’s harder than it sounds, and I strongly suggest asking someone else to test it for you on their computer so that you’re sure it will work on mine.)
 
-You must submit your presentation at least 24 hours before our final exam time. Upload, to the dropbox on MyCourses, either a PowerPoint presentation or a text file with the YouTube link for the video of your presentation. 
+You must submit your presentation by Sunday, 12/15/19 by 11:59pm. Upload, to the dropbox on MyCourses, either a PowerPoint presentation or a text file with the YouTube link for the video of your presentation. 
 
-We will watch all submitted presentations and videos during the finals period.  
+We will not have a finals period so no one need attend on 12/17/2019.
 
 ## Grading Rubric
 
