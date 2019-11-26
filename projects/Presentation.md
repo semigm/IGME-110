@@ -21,11 +21,5 @@ You must submit your presentation at least 24 hours before our final exam time. 
 We will watch all submitted presentations and videos during the finals period.  
 
 ## Grading Rubric
-Criteria | Points | Description
-------------- | ------- | ---------- 
-Topics Covered | 10 | 10 things you learned this semester?
-Audio smooth & well-paced	| 2 | Is the audio understandable? Are there any obvious breaks in the audio?
-Good slide design	| 4 | Is there a clear visual hierarchy? Is the text minimal but understandable (not blocks of text or bullet points)?
-Consistent slide design	| 2 | Do all slides share the same visual style?
-Coherent narrative	| 2 | Are the slides ordered in a way that makes sense?
-Total | __/20
+
+![Rubric](pres_rubric.png)
